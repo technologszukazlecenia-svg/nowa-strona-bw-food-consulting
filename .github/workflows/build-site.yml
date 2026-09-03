@@ -101,6 +101,23 @@ jobs:
               window.scrollTo(0, 0);
               await delay(180);
             });
+
+            for (let pass = 0; pass < 3; pass += 1) {
+              const remaining = page.locator('[data-reveal]:not(.is-visible):visible');
+              const count = await remaining.count();
+              if (count === 0) break;
+
+              for (let index = count - 1; index >= 0; index -= 1) {
+                const element = remaining.nth(index);
+                if (await element.count()) {
+                  await element.scrollIntoViewIfNeeded();
+                  await page.waitForTimeout(90);
+                }
+              }
+            }
+
+            await page.evaluate(() => window.scrollTo(0, 0));
+            await page.waitForTimeout(180);
           }
 
           async function captureSections(page, name) {
@@ -131,9 +148,15 @@ jobs:
             if (!response?.ok()) throw new Error(`${name}: HTTP ${response?.status()}`);
 
             await revealWholePage(page);
-            const hiddenRevealCount = await page.locator('[data-reveal]:not(.is-visible)').count();
+            const hiddenRevealCount = await page.locator('[data-reveal]:not(.is-visible):visible').count();
             if (hiddenRevealCount !== 0) {
-              throw new Error(`${name}: ${hiddenRevealCount} reveal elements remained hidden after a complete scroll`);
+              const hiddenRevealDetails = await page.locator('[data-reveal]:not(.is-visible):visible').evaluateAll(elements => elements.map(element => ({
+                tag: element.tagName.toLowerCase(),
+                id: element.id || '',
+                className: typeof element.className === 'string' ? element.className : '',
+                text: (element.textContent || '').replace(/\s+/g, ' ').trim().slice(0, 120),
+              })));
+              throw new Error(`${name}: ${hiddenRevealCount} visible reveal elements remained hidden: ${JSON.stringify(hiddenRevealDetails)}`);
             }
 
             await page.screenshot({ path: `qa-screenshots/${name}.png`, fullPage: true });
