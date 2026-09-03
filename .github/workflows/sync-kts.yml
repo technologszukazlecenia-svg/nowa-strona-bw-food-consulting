@@ -1,0 +1,62 @@
+name: Sync official Polish cities (KTS 2026)
+
+on:
+  push:
+    paths:
+      - '.github/workflows/sync-kts.yml'
+      - 'scripts/extract_cities.py'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    if: github.actor != 'github-actions[bot]'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install workbook readers
+        run: pip install --disable-pip-version-check pandas xlrd openpyxl
+
+      - name: Download official GUS workbooks
+        run: |
+          mkdir -p .cache/gus data
+          curl --fail --location --retry 4 --retry-all-errors \
+            'https://stat.gov.pl/download/gfx/portalinformacyjny/pl/defaultstronaopisowa/5875/1/1/kts_2026v2.xls' \
+            --output .cache/gus/kts_2026v2.xls
+          curl --fail --location --retry 4 --retry-all-errors \
+            'https://stat.gov.pl/download/gfx/portalinformacyjny/pl/defaultstronaopisowa/5875/1/1/tablica_kts-teryt_2026.xls' \
+            --output .cache/gus/tablica_kts-teryt_2026.xls
+
+      - name: Extract city rows
+        run: python scripts/extract_cities.py
+
+      - name: Validate exact city count
+        run: |
+          python - <<'PY'
+          import json
+          from pathlib import Path
+          cities = json.loads(Path('data/cities.json').read_text(encoding='utf-8'))
+          assert len(cities) == 1026, f'Expected 1026 cities, got {len(cities)}'
+          assert len({item['teryt'] for item in cities}) == 1026, 'TERYT codes are not unique'
+          print('Validated:', len(cities), 'cities')
+          PY
+
+      - name: Commit normalized city data
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add data/cities.json data/cities.csv data/source-manifest.json
+          if git diff --cached --quiet; then
+            echo 'No city-data changes.'
+          else
+            git commit -m 'Dane: 1026 miast z oficjalnego wykazu KTS 2026'
+            git push
+          fi
