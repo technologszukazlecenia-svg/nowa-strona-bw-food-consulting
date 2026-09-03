@@ -302,6 +302,7 @@ details[open] summary::after { transform: rotate(45deg); }
   .category-list { grid-template-columns: repeat(2, 1fr); }
   .experience { gap: 48px; }
   .experience-visual { min-height: 390px; }
+  .experience-visual::before { inset: 28px 0 -28px 28px; }
   .city-grid { grid-template-columns: repeat(3, minmax(0, 1fr)); }
 }
 
