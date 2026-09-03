@@ -94,16 +94,70 @@ jobs:
             const response = await page.goto(url, { waitUntil: 'networkidle', timeout: 60000 });
             if (!response?.ok()) throw new Error(`${name}: HTTP ${response?.status()}`);
             await page.screenshot({ path: `qa-screenshots/${name}.png`, fullPage: true });
+
+            const geometry = await page.evaluate(() => {
+              const viewportWidth = document.documentElement.clientWidth;
+              const bodyWidth = document.body.scrollWidth;
+              const describe = (element) => {
+                const rect = element.getBoundingClientRect();
+                const style = getComputedStyle(element);
+                return {
+                  tag: element.tagName.toLowerCase(),
+                  id: element.id || '',
+                  className: typeof element.className === 'string' ? element.className : '',
+                  left: Number(rect.left.toFixed(2)),
+                  right: Number(rect.right.toFixed(2)),
+                  width: Number(rect.width.toFixed(2)),
+                  clientWidth: element.clientWidth,
+                  scrollWidth: element.scrollWidth,
+                  overflowX: style.overflowX,
+                  position: style.position,
+                  transform: style.transform,
+                  text: (element.textContent || '').replace(/\s+/g, ' ').trim().slice(0, 120),
+                };
+              };
+
+              const all = Array.from(document.querySelectorAll('*'));
+              const outside = all
+                .map(describe)
+                .filter(item => item.left < -0.5 || item.right > viewportWidth + 0.5 || item.width > viewportWidth + 0.5 || item.scrollWidth > item.clientWidth + 1)
+                .slice(0, 80);
+
+              const removalImpact = [];
+              if (bodyWidth > viewportWidth + 1) {
+                for (const element of all) {
+                  if (['HTML', 'BODY', 'HEAD', 'SCRIPT', 'STYLE', 'LINK', 'META'].includes(element.tagName)) continue;
+                  const previous = element.getAttribute('style');
+                  element.style.setProperty('display', 'none', 'important');
+                  const reducedWidth = document.body.scrollWidth;
+                  if (reducedWidth < bodyWidth) {
+                    removalImpact.push({ ...describe(element), reducedBodyWidth: reducedWidth });
+                  }
+                  if (previous === null) element.removeAttribute('style');
+                  else element.setAttribute('style', previous);
+                }
+              }
+
+              return { viewportWidth, bodyWidth, outside, removalImpact: removalImpact.slice(-50) };
+            });
+
             const result = {
               title: await page.title(),
               h1: await page.locator('h1').first().innerText(),
               h1Count: await page.locator('h1').count(),
-              bodyWidth: await page.evaluate(() => document.body.scrollWidth),
-              viewportWidth: await page.evaluate(() => document.documentElement.clientWidth),
+              bodyWidth: geometry.bodyWidth,
+              viewportWidth: geometry.viewportWidth,
               formCount: await page.locator('[data-contact-form]').count(),
+              outside: geometry.outside,
+              removalImpact: geometry.removalImpact,
             };
+            await writeFile(`qa-screenshots/${name}.json`, JSON.stringify(result, null, 2));
+            console.log(JSON.stringify({ audit: name, ...result }, null, 2));
+
             if (result.h1Count !== 1) throw new Error(`${name}: expected one H1`);
-            if (result.bodyWidth > result.viewportWidth + 1) throw new Error(`${name}: horizontal overflow ${result.bodyWidth}/${result.viewportWidth}`);
+            if (result.bodyWidth > result.viewportWidth + 1) {
+              throw new Error(`${name}: horizontal overflow ${result.bodyWidth}/${result.viewportWidth}`);
+            }
             await page.close();
             return result;
           }
@@ -127,6 +181,7 @@ jobs:
           node qa-smoke.mjs
 
       - name: Publish validated preview artifact
+        if: success()
         uses: actions/upload-artifact@v4
         with:
           name: bw-food-consulting-1026-miast-preview
@@ -135,9 +190,10 @@ jobs:
           if-no-files-found: error
 
       - name: Publish visual QA artifact
+        if: always()
         uses: actions/upload-artifact@v4
         with:
           name: bw-food-consulting-1026-miast-screenshots
           path: qa-screenshots
           retention-days: 14
-          if-no-files-found: error
+          if-no-files-found: warn
