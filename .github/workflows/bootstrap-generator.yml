@@ -33,8 +33,7 @@ jobs:
           echo '87aae315b5772a8ce9088637d6b3519bf6dd5b8bcb9fafd21b6ba42d25038cca  /tmp/sitegen-generator.tgz' \
             | sha256sum --check
           tar -xzf /tmp/sitegen-generator.tgz
-          rm -rf .bootstrap
-          rm -f .github/workflows/bootstrap-generator.yml
+          rm -f .github/workflows/build-site.yml
 
       - name: Validate all 1026 pages before commit
         env:
@@ -42,11 +41,11 @@ jobs:
           SITE_URL: https://lp.technologzywnosci.pl
         run: npm test
 
-      - name: Commit generator
+      - name: Commit generator without workflow files
         run: |
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git add -A
+          git add README.md .gitignore package.json vercel.json src scripts
           git commit -m 'Generator: 1026 niezależnych stron miejskich'
           git pull --rebase origin main
           git push origin HEAD:main
