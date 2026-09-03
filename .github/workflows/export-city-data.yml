@@ -1,0 +1,34 @@
+name: Export verified city data
+
+on:
+  push:
+    paths:
+      - '.github/workflows/export-city-data.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  export:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Validate source list
+        run: |
+          python - <<'PY'
+          import json
+          from pathlib import Path
+          cities = json.loads(Path('data/cities.json').read_text(encoding='utf-8'))
+          assert len(cities) == 1026, len(cities)
+          assert len({c['teryt'] for c in cities}) == 1026
+          assert len({c['slug'] for c in cities}) == 1026
+          print('Validated', len(cities), 'cities')
+          PY
+      - name: Upload verified data
+        uses: actions/upload-artifact@v4
+        with:
+          name: verified-polish-cities-1026
+          path: data/cities.json
+          if-no-files-found: error
+          retention-days: 1
