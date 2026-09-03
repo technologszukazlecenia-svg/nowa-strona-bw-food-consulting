@@ -29,14 +29,8 @@ jobs:
 
           path = Path('src/site.css')
           css = path.read_text(encoding='utf-8')
-          old = '''  .hero-panel { min-height: 440px; }
-  .hero-panel__back { inset: 0 20px 30px 0; }
-  .hero-panel__card { inset: 22px 0 0 20px; padding: 24px; }
-'''
-          new = '''  .hero-panel { min-height: 0; padding: 22px 0 30px 20px; }
-  .hero-panel__back { inset: 0 20px 30px 0; }
-  .hero-panel__card { position: relative; inset: auto; min-height: 0; padding: 24px; }
-'''
+          old = "  .hero-panel { min-height: 440px; }\n  .hero-panel__back { inset: 0 20px 30px 0; }\n  .hero-panel__card { inset: 22px 0 0 20px; padding: 24px; }\n"
+          new = "  .hero-panel { min-height: 0; padding: 22px 0 30px 20px; }\n  .hero-panel__back { inset: 0 20px 30px 0; }\n  .hero-panel__card { position: relative; inset: auto; min-height: 0; padding: 24px; }\n"
           if new in css:
               print('Mobile hero flow fix already present.')
           elif old in css:
