@@ -1,0 +1,59 @@
+name: Patch mobile NPD frame overflow
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/patch-mobile-overflow.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  patch:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+
+      - name: Keep the decorative frame inside narrow layouts
+        run: |
+          python - <<'PY'
+          from pathlib import Path
+          path = Path('src/site.css')
+          css = path.read_text(encoding='utf-8')
+          needle = '  .experience-visual { min-height: 390px; }\n'
+          replacement = needle + '  .experience-visual::before { inset: 28px 0 -28px 28px; }\n'
+          if replacement in css:
+              print('Mobile overflow fix already present.')
+          elif needle in css:
+              path.write_text(css.replace(needle, replacement, 1), encoding='utf-8')
+              print('Inserted responsive frame rule.')
+          else:
+              raise SystemExit('Expected responsive experience rule was not found.')
+          PY
+
+      - name: Rebuild and validate all city pages
+        env:
+          PUBLISH_MODE: preview
+          SITE_URL: https://lp.technologzywnosci.pl
+        run: npm test
+
+      - name: Commit responsive correction
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add src/site.css
+          if git diff --cached --quiet; then
+            echo 'No CSS changes.'
+          else
+            git commit -m 'Napraw przepełnienie ramki NPD na urządzeniach mobilnych'
+            git pull --rebase origin main
+            git push origin HEAD:main
+          fi
