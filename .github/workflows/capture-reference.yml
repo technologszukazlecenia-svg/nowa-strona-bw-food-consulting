@@ -1,0 +1,62 @@
+name: Capture current Landingi references
+
+on:
+  push:
+    paths:
+      - '.github/workflows/capture-reference.yml'
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  capture:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: Install Playwright
+        run: |
+          npm install --no-save playwright@1.55.0
+          npx playwright install --with-deps chromium
+      - name: Capture reference pages
+        run: |
+          mkdir -p reference
+          cat > /tmp/capture.mjs <<'JS'
+          import { chromium } from 'playwright';
+          import { writeFile } from 'node:fs/promises';
+
+          const pages = [
+            ['warszawa', 'https://lp.technologzywnosci.pl/technolog-zywnosci-warszawa'],
+            ['lodz', 'https://lp.technologzywnosci.pl/technolog-zywnosci-lodz'],
+          ];
+
+          const browser = await chromium.launch({ headless: true });
+          for (const [name, url] of pages) {
+            const desktop = await browser.newPage({ viewport: { width: 1440, height: 1000 }, deviceScaleFactor: 1 });
+            await desktop.goto(url, { waitUntil: 'networkidle', timeout: 90000 });
+            await desktop.screenshot({ path: `reference/${name}-desktop.png`, fullPage: true });
+            await writeFile(`reference/${name}.html`, await desktop.content(), 'utf8');
+            const styles = await desktop.evaluate(() => Array.from(document.styleSheets).map((sheet) => {
+              try { return Array.from(sheet.cssRules).map(rule => rule.cssText).join('\n'); }
+              catch { return ''; }
+            }).filter(Boolean).join('\n\n'));
+            await writeFile(`reference/${name}.css`, styles, 'utf8');
+            await desktop.close();
+
+            const mobile = await browser.newPage({ viewport: { width: 390, height: 844 }, deviceScaleFactor: 1 });
+            await mobile.goto(url, { waitUntil: 'networkidle', timeout: 90000 });
+            await mobile.screenshot({ path: `reference/${name}-mobile.png`, fullPage: true });
+            await mobile.close();
+          }
+          await browser.close();
+          JS
+          node /tmp/capture.mjs
+      - name: Upload visual reference
+        uses: actions/upload-artifact@v4
+        with:
+          name: landingi-reference
+          path: reference
+          retention-days: 3
