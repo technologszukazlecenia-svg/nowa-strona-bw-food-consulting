@@ -18,7 +18,14 @@ EXPECTED = 1026
 def clean_name(value: str) -> str:
     name = re.sub(r"\s*-\s*miasto\s*\(4\)\s*$", "", value, flags=re.IGNORECASE)
     name = re.sub(r"\s*\(1\)\s*$", "", name)
-    return re.sub(r"\s+", " ", name).strip()
+    name = re.sub(r"\s+", " ", name).strip()
+
+    # GUS uses the administrative label "M.st.Warszawa". Public pages must
+    # use the natural city name and preserve the existing /warszawa URL.
+    if re.fullmatch(r"m\.?\s*st\.?\s*warszawa", name, flags=re.IGNORECASE):
+        return "Warszawa"
+
+    return name
 
 
 def slugify(value: str) -> str:
@@ -67,6 +74,10 @@ def main() -> None:
     ]
     if bad_names:
         raise RuntimeError(f"Technical labels remain in names: {bad_names[:20]}")
+
+    warsaw = [item for item in cities if item["teryt"] == "1465011"]
+    if len(warsaw) != 1 or warsaw[0]["name"] != "Warszawa" or warsaw[0]["slug"] != "warszawa":
+        raise RuntimeError(f"Warsaw URL compatibility check failed: {warsaw}")
 
     slugs = [item["slug"] for item in cities]
     duplicates = [slug for slug, count in Counter(slugs).items() if count > 1]
