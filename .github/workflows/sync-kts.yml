@@ -5,6 +5,7 @@ on:
     paths:
       - '.github/workflows/sync-kts.yml'
       - 'scripts/extract_cities.py'
+      - 'scripts/normalize_cities.py'
   workflow_dispatch:
 
 permissions:
@@ -38,14 +39,20 @@ jobs:
       - name: Extract city rows
         run: python scripts/extract_cities.py
 
-      - name: Validate exact city count
+      - name: Normalize public names and slugs
+        run: python scripts/normalize_cities.py
+
+      - name: Validate exact city count and identifiers
         run: |
           python - <<'PY'
           import json
+          import re
           from pathlib import Path
           cities = json.loads(Path('data/cities.json').read_text(encoding='utf-8'))
           assert len(cities) == 1026, f'Expected 1026 cities, got {len(cities)}'
           assert len({item['teryt'] for item in cities}) == 1026, 'TERYT codes are not unique'
+          assert len({item['slug'] for item in cities}) == 1026, 'URL slugs are not unique'
+          assert all(not re.search(r'\((1|4)\)$| - miasto$', item['name']) for item in cities)
           print('Validated:', len(cities), 'cities')
           PY
 
@@ -57,6 +64,6 @@ jobs:
           if git diff --cached --quiet; then
             echo 'No city-data changes.'
           else
-            git commit -m 'Dane: 1026 miast z oficjalnego wykazu KTS 2026'
+            git commit -m 'Dane: 1026 oczyszczonych nazw miast z KTS 2026'
             git push
           fi
