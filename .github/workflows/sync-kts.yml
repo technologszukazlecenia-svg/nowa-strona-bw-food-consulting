@@ -8,6 +8,10 @@ on:
       - 'scripts/normalize_cities.py'
   workflow_dispatch:
 
+concurrency:
+  group: sync-official-polish-cities
+  cancel-in-progress: false
+
 permissions:
   contents: write
 
@@ -17,6 +21,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -65,5 +71,6 @@ jobs:
             echo 'No city-data changes.'
           else
             git commit -m 'Dane: 1026 oczyszczonych nazw miast z KTS 2026'
-            git push
+            git pull --rebase origin main
+            git push origin HEAD:main
           fi
