@@ -85,15 +85,59 @@ jobs:
           const browser = await chromium.launch({ headless: true });
           const consoleErrors = [];
 
+          async function revealWholePage(page) {
+            await page.evaluate(async () => {
+              const delay = (milliseconds) => new Promise(resolve => setTimeout(resolve, milliseconds));
+              const step = Math.max(360, Math.floor(window.innerHeight * 0.65));
+              const height = document.documentElement.scrollHeight;
+
+              for (let y = 0; y < height; y += step) {
+                window.scrollTo(0, y);
+                await delay(65);
+              }
+
+              window.scrollTo(0, document.documentElement.scrollHeight);
+              await delay(180);
+              window.scrollTo(0, 0);
+              await delay(180);
+            });
+          }
+
+          async function captureSections(page, name) {
+            const sections = [
+              ['hero', '.hero'],
+              ['scope', '#zakres'],
+              ['experience', '#doswiadczenie'],
+              ['contact', '#kontakt'],
+            ];
+
+            for (const [label, selector] of sections) {
+              const locator = page.locator(selector).first();
+              if (await locator.count()) {
+                await locator.screenshot({ path: `qa-screenshots/${name}-${label}.png` });
+              }
+            }
+            await page.evaluate(() => window.scrollTo(0, 0));
+          }
+
           async function audit(name, url, viewport) {
             const page = await browser.newPage({ viewport, deviceScaleFactor: 1 });
             page.on('console', message => {
               if (message.type() === 'error') consoleErrors.push(`${name}: ${message.text()}`);
             });
             page.on('pageerror', error => consoleErrors.push(`${name}: ${error.message}`));
+
             const response = await page.goto(url, { waitUntil: 'networkidle', timeout: 60000 });
             if (!response?.ok()) throw new Error(`${name}: HTTP ${response?.status()}`);
+
+            await revealWholePage(page);
+            const hiddenRevealCount = await page.locator('[data-reveal]:not(.is-visible)').count();
+            if (hiddenRevealCount !== 0) {
+              throw new Error(`${name}: ${hiddenRevealCount} reveal elements remained hidden after a complete scroll`);
+            }
+
             await page.screenshot({ path: `qa-screenshots/${name}.png`, fullPage: true });
+            await captureSections(page, name);
 
             const geometry = await page.evaluate(() => {
               const viewportWidth = document.documentElement.clientWidth;
@@ -148,6 +192,7 @@ jobs:
               bodyWidth: geometry.bodyWidth,
               viewportWidth: geometry.viewportWidth,
               formCount: await page.locator('[data-contact-form]').count(),
+              hiddenRevealCount,
               outside: geometry.outside,
               removalImpact: geometry.removalImpact,
             };
