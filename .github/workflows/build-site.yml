@@ -32,6 +32,11 @@ jobs:
         with:
           node-version: '22'
 
+      - name: Verify existing Warsaw URL compatibility
+        run: |
+          grep -q '"name": "Warszawa"' data/cities.json
+          grep -q '"slug": "warszawa"' data/cities.json
+
       - name: Build preview and run full validation
         env:
           PUBLISH_MODE: preview
@@ -49,12 +54,14 @@ jobs:
           npm test
           grep -q 'Allow: /' dist/robots.txt
           grep -q 'Sitemap: https://lp.technologzywnosci.pl/sitemap.xml' dist/robots.txt
+          test -f dist/technolog-zywnosci-warszawa.html
           grep -q 'content="index,follow,max-image-preview:large"' dist/technolog-zywnosci-warszawa.html
 
       - name: Restore safe preview build
+        if: always()
         run: |
           rm -rf dist
-          mv dist-preview dist
+          if [ -d dist-preview ]; then mv dist-preview dist; fi
 
       - name: Install browser for visual smoke test
         run: |
