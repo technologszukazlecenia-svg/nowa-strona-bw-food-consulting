@@ -3003,13 +3003,6 @@
     "kind": "gmina miejska"
   },
   {
-    "name": "M.st.Warszawa",
-    "slug": "m-st-warszawa",
-    "voivodeship": "mazowieckie",
-    "teryt": "1465011",
-    "kind": "gmina miejska"
-  },
-  {
     "name": "Maciejowice",
     "slug": "maciejowice",
     "voivodeship": "mazowieckie",
@@ -6116,6 +6109,13 @@
     "voivodeship": "mazowieckie",
     "teryt": "1406114",
     "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Warszawa",
+    "slug": "warszawa",
+    "voivodeship": "mazowieckie",
+    "teryt": "1465011",
+    "kind": "gmina miejska"
   },
   {
     "name": "Warta",
