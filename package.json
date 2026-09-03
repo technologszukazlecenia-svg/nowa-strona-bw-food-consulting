@@ -1,0 +1,16 @@
+{
+  "name": "bw-food-consulting-1026-miast",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Niezależny generator landing pages BW Food Consulting dla wszystkich 1026 miast w Polsce.",
+  "scripts": {
+    "build": "node scripts/build-site.mjs",
+    "validate": "node scripts/validate-site.mjs",
+    "test": "npm run build && npm run validate",
+    "serve": "node scripts/serve.mjs"
+  },
+  "engines": {
+    "node": ">=22"
+  }
+}
