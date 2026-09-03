@@ -1,0 +1,24 @@
+{
+  "asOf": "2026-01-01",
+  "generatedOn": "2026-09-03",
+  "cityCount": 1026,
+  "selection": {
+    "terytKinds": [
+      1,
+      4
+    ],
+    "description": "gminy miejskie oraz miasta w gminach miejsko-wiejskich"
+  },
+  "sources": [
+    {
+      "name": "kts_2026v2.xls",
+      "url": "https://stat.gov.pl/download/gfx/portalinformacyjny/pl/defaultstronaopisowa/5875/1/1/kts_2026v2.xls",
+      "sha256": "6801fab26a5baca0b7735167715d1088a62918cca5044d201aafd0a7a8c84344"
+    },
+    {
+      "name": "tablica_kts-teryt_2026.xls",
+      "url": "https://stat.gov.pl/download/gfx/portalinformacyjny/pl/defaultstronaopisowa/5875/1/1/tablica_kts-teryt_2026.xls",
+      "sha256": "98eedfde7bed1541623b48c109b8f563e9ab1aed0c6b563ebc3b918b5de364a0"
+    }
+  ]
+}

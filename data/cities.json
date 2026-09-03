@@ -1,0 +1,7184 @@
+[
+  {
+    "name": "Aleksandrów Kujawski (1)",
+    "slug": "aleksandrow-kujawski-1",
+    "voivodeship": "kujawsko-pomorskie",
+    "teryt": "0401011",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Aleksandrów Łódzki - miasto (4)",
+    "slug": "aleksandrow-lodzki-miasto-4",
+    "voivodeship": "łódzkie",
+    "teryt": "1020044",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Alwernia - miasto (4)",
+    "slug": "alwernia-miasto-4",
+    "voivodeship": "małopolskie",
+    "teryt": "1203014",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Andrychów - miasto (4)",
+    "slug": "andrychow-miasto-4",
+    "voivodeship": "małopolskie",
+    "teryt": "1218014",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Annopol - miasto (4)",
+    "slug": "annopol-miasto-4",
+    "voivodeship": "lubelskie",
+    "teryt": "0607024",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Augustów (1)",
+    "slug": "augustow-1",
+    "voivodeship": "podlaskie",
+    "teryt": "2001011",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Babimost - miasto (4)",
+    "slug": "babimost-miasto-4",
+    "voivodeship": "lubuskie",
+    "teryt": "0809014",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Baborów - miasto (4)",
+    "slug": "baborow-miasto-4",
+    "voivodeship": "opolskie",
+    "teryt": "1602014",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Baranów Sandomierski - miasto (4)",
+    "slug": "baranow-sandomierski-miasto-4",
+    "voivodeship": "podkarpackie",
+    "teryt": "1820014",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Barcin - miasto (4)",
+    "slug": "barcin-miasto-4",
+    "voivodeship": "kujawsko-pomorskie",
+    "teryt": "0419014",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Barczewo - miasto (4)",
+    "slug": "barczewo-miasto-4",
+    "voivodeship": "warmińsko-mazurskie",
+    "teryt": "2814014",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Bardo - miasto (4)",
+    "slug": "bardo-miasto-4",
+    "voivodeship": "dolnośląskie",
+    "teryt": "0224014",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Barlinek - miasto (4)",
+    "slug": "barlinek-miasto-4",
+    "voivodeship": "zachodniopomorskie",
+    "teryt": "3210014",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Bartoszyce (1)",
+    "slug": "bartoszyce-1",
+    "voivodeship": "warmińsko-mazurskie",
+    "teryt": "2801011",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Barwice - miasto (4)",
+    "slug": "barwice-miasto-4",
+    "voivodeship": "zachodniopomorskie",
+    "teryt": "3215024",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Bełchatów (1)",
+    "slug": "belchatow-1",
+    "voivodeship": "łódzkie",
+    "teryt": "1001011",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Bełżyce - miasto (4)",
+    "slug": "belzyce-miasto-4",
+    "voivodeship": "lubelskie",
+    "teryt": "0609014",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Biała - miasto (4)",
+    "slug": "biala-miasto-4",
+    "voivodeship": "opolskie",
+    "teryt": "1610014",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Biała Piska - miasto (4)",
+    "slug": "biala-piska-miasto-4",
+    "voivodeship": "warmińsko-mazurskie",
+    "teryt": "2816014",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Biała Podlaska (1)",
+    "slug": "biala-podlaska-1",
+    "voivodeship": "lubelskie",
+    "teryt": "0661011",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Biała Rawska - miasto (4)",
+    "slug": "biala-rawska-miasto-4",
+    "voivodeship": "łódzkie",
+    "teryt": "1013024",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Białaczów - miasto (4)",
+    "slug": "bialaczow-miasto-4",
+    "voivodeship": "łódzkie",
+    "teryt": "1007014",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Białobrzegi - miasto (4)",
+    "slug": "bialobrzegi-miasto-4",
+    "voivodeship": "mazowieckie",
+    "teryt": "1401014",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Białogard (1)",
+    "slug": "bialogard-1",
+    "voivodeship": "zachodniopomorskie",
+    "teryt": "3201011",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Biały Bór - miasto (4)",
+    "slug": "bialy-bor-miasto-4",
+    "voivodeship": "zachodniopomorskie",
+    "teryt": "3215034",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Białystok (1)",
+    "slug": "bialystok-1",
+    "voivodeship": "podlaskie",
+    "teryt": "2061011",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Biecz - miasto (4)",
+    "slug": "biecz-miasto-4",
+    "voivodeship": "małopolskie",
+    "teryt": "1205024",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Bielawa (1)",
+    "slug": "bielawa-1",
+    "voivodeship": "dolnośląskie",
+    "teryt": "0202011",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Bielsk Podlaski (1)",
+    "slug": "bielsk-podlaski-1",
+    "voivodeship": "podlaskie",
+    "teryt": "2003011",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Bielsko-Biała (1)",
+    "slug": "bielsko-biala-1",
+    "voivodeship": "śląskie",
+    "teryt": "2461011",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Bierutów - miasto (4)",
+    "slug": "bierutow-miasto-4",
+    "voivodeship": "dolnośląskie",
+    "teryt": "0214024",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Bieruń (1)",
+    "slug": "bierun-1",
+    "voivodeship": "śląskie",
+    "teryt": "2414011",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Bieżuń - miasto (4)",
+    "slug": "biezun-miasto-4",
+    "voivodeship": "mazowieckie",
+    "teryt": "1437014",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Bircza - miasto (4)",
+    "slug": "bircza-miasto-4",
+    "voivodeship": "podkarpackie",
+    "teryt": "1813014",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Biskupiec - miasto (4)",
+    "slug": "biskupiec-miasto-4",
+    "voivodeship": "warmińsko-mazurskie",
+    "teryt": "2814024",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Bisztynek - miasto (4)",
+    "slug": "bisztynek-miasto-4",
+    "voivodeship": "warmińsko-mazurskie",
+    "teryt": "2801044",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Biłgoraj (1)",
+    "slug": "bilgoraj-1",
+    "voivodeship": "lubelskie",
+    "teryt": "0602011",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Blachownia - miasto (4)",
+    "slug": "blachownia-miasto-4",
+    "voivodeship": "śląskie",
+    "teryt": "2404014",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Bobolice - miasto (4)",
+    "slug": "bobolice-miasto-4",
+    "voivodeship": "zachodniopomorskie",
+    "teryt": "3209034",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Bobowa - miasto (4)",
+    "slug": "bobowa-miasto-4",
+    "voivodeship": "małopolskie",
+    "teryt": "1205034",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Bobrowniki - miasto (4)",
+    "slug": "bobrowniki-miasto-4",
+    "voivodeship": "kujawsko-pomorskie",
+    "teryt": "0408024",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Bochnia (1)",
+    "slug": "bochnia-1",
+    "voivodeship": "małopolskie",
+    "teryt": "1201011",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Bodzanów - miasto (4)",
+    "slug": "bodzanow-miasto-4",
+    "voivodeship": "mazowieckie",
+    "teryt": "1419024",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Bodzentyn - miasto (4)",
+    "slug": "bodzentyn-miasto-4",
+    "voivodeship": "świętokrzyskie",
+    "teryt": "2604024",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Bogatynia - miasto (4)",
+    "slug": "bogatynia-miasto-4",
+    "voivodeship": "dolnośląskie",
+    "teryt": "0225034",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Bogoria - miasto (4)",
+    "slug": "bogoria-miasto-4",
+    "voivodeship": "świętokrzyskie",
+    "teryt": "2612014",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Boguchwała - miasto (4)",
+    "slug": "boguchwala-miasto-4",
+    "voivodeship": "podkarpackie",
+    "teryt": "1816034",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Boguszów-Gorce (1)",
+    "slug": "boguszow-gorce-1",
+    "voivodeship": "dolnośląskie",
+    "teryt": "0221011",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Bojanowo - miasto (4)",
+    "slug": "bojanowo-miasto-4",
+    "voivodeship": "wielkopolskie",
+    "teryt": "3022014",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Bolesławiec (1)",
+    "slug": "boleslawiec-1",
+    "voivodeship": "dolnośląskie",
+    "teryt": "0201011",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Bolesławiec - miasto (4)",
+    "slug": "boleslawiec-miasto-4",
+    "voivodeship": "łódzkie",
+    "teryt": "1018014",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Bolimów - miasto (4)",
+    "slug": "bolimow-miasto-4",
+    "voivodeship": "łódzkie",
+    "teryt": "1015014",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Bolków - miasto (4)",
+    "slug": "bolkow-miasto-4",
+    "voivodeship": "dolnośląskie",
+    "teryt": "0205024",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Borek Wielkopolski - miasto (4)",
+    "slug": "borek-wielkopolski-miasto-4",
+    "voivodeship": "wielkopolskie",
+    "teryt": "3004014",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Borne Sulinowo - miasto (4)",
+    "slug": "borne-sulinowo-miasto-4",
+    "voivodeship": "zachodniopomorskie",
+    "teryt": "3215044",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Branice - miasto (4)",
+    "slug": "branice-miasto-4",
+    "voivodeship": "opolskie",
+    "teryt": "1602024",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Braniewo (1)",
+    "slug": "braniewo-1",
+    "voivodeship": "warmińsko-mazurskie",
+    "teryt": "2802011",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Brańsk (1)",
+    "slug": "bransk-1",
+    "voivodeship": "podlaskie",
+    "teryt": "2003021",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Brodnica (1)",
+    "slug": "brodnica-1",
+    "voivodeship": "kujawsko-pomorskie",
+    "teryt": "0402011",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Brody - miasto (4)",
+    "slug": "brody-miasto-4",
+    "voivodeship": "lubuskie",
+    "teryt": "0811034",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Brok - miasto (4)",
+    "slug": "brok-miasto-4",
+    "voivodeship": "mazowieckie",
+    "teryt": "1416044",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Brusy - miasto (4)",
+    "slug": "brusy-miasto-4",
+    "voivodeship": "pomorskie",
+    "teryt": "2202024",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Brwinów - miasto (4)",
+    "slug": "brwinow-miasto-4",
+    "voivodeship": "mazowieckie",
+    "teryt": "1421034",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Brzeg (1)",
+    "slug": "brzeg-1",
+    "voivodeship": "opolskie",
+    "teryt": "1601011",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Brzeg Dolny - miasto (4)",
+    "slug": "brzeg-dolny-miasto-4",
+    "voivodeship": "dolnośląskie",
+    "teryt": "0222014",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Brzesko - miasto (4)",
+    "slug": "brzesko-miasto-4",
+    "voivodeship": "małopolskie",
+    "teryt": "1202024",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Brzeszcze - miasto (4)",
+    "slug": "brzeszcze-miasto-4",
+    "voivodeship": "małopolskie",
+    "teryt": "1213024",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Brzeziny (1)",
+    "slug": "brzeziny-1",
+    "voivodeship": "łódzkie",
+    "teryt": "1021011",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Brześć Kujawski - miasto (4)",
+    "slug": "brzesc-kujawski-miasto-4",
+    "voivodeship": "kujawsko-pomorskie",
+    "teryt": "0418044",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Brzostek - miasto (4)",
+    "slug": "brzostek-miasto-4",
+    "voivodeship": "podkarpackie",
+    "teryt": "1803024",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Brzozów - miasto (4)",
+    "slug": "brzozow-miasto-4",
+    "voivodeship": "podkarpackie",
+    "teryt": "1802014",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Budzyń - miasto (4)",
+    "slug": "budzyn-miasto-4",
+    "voivodeship": "wielkopolskie",
+    "teryt": "3001024",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Buk - miasto (4)",
+    "slug": "buk-miasto-4",
+    "voivodeship": "wielkopolskie",
+    "teryt": "3021034",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Bukowno (1)",
+    "slug": "bukowno-1",
+    "voivodeship": "małopolskie",
+    "teryt": "1212011",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Busko-Zdrój - miasto (4)",
+    "slug": "busko-zdroj-miasto-4",
+    "voivodeship": "świętokrzyskie",
+    "teryt": "2601014",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Bychawa - miasto (4)",
+    "slug": "bychawa-miasto-4",
+    "voivodeship": "lubelskie",
+    "teryt": "0609034",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Byczyna - miasto (4)",
+    "slug": "byczyna-miasto-4",
+    "voivodeship": "opolskie",
+    "teryt": "1604014",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Bydgoszcz (1)",
+    "slug": "bydgoszcz-1",
+    "voivodeship": "kujawsko-pomorskie",
+    "teryt": "0461011",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Bystrzyca Kłodzka - miasto (4)",
+    "slug": "bystrzyca-klodzka-miasto-4",
+    "voivodeship": "dolnośląskie",
+    "teryt": "0208064",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Bytom (1)",
+    "slug": "bytom-1",
+    "voivodeship": "śląskie",
+    "teryt": "2462011",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Bytom Odrzański - miasto (4)",
+    "slug": "bytom-odrzanski-miasto-4",
+    "voivodeship": "lubuskie",
+    "teryt": "0804024",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Bytów - miasto (4)",
+    "slug": "bytow-miasto-4",
+    "voivodeship": "pomorskie",
+    "teryt": "2201024",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Będzin (1)",
+    "slug": "bedzin-1",
+    "voivodeship": "śląskie",
+    "teryt": "2401011",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Błaszki - miasto (4)",
+    "slug": "blaszki-miasto-4",
+    "voivodeship": "łódzkie",
+    "teryt": "1014024",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Błażowa - miasto (4)",
+    "slug": "blazowa-miasto-4",
+    "voivodeship": "podkarpackie",
+    "teryt": "1816024",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Błonie - miasto (4)",
+    "slug": "blonie-miasto-4",
+    "voivodeship": "mazowieckie",
+    "teryt": "1432014",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Cedynia - miasto (4)",
+    "slug": "cedynia-miasto-4",
+    "voivodeship": "zachodniopomorskie",
+    "teryt": "3206024",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Cegłów - miasto (4)",
+    "slug": "ceglow-miasto-4",
+    "voivodeship": "mazowieckie",
+    "teryt": "1412044",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Chełm (1)",
+    "slug": "chelm-1",
+    "voivodeship": "lubelskie",
+    "teryt": "0662011",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Chełmek - miasto (4)",
+    "slug": "chelmek-miasto-4",
+    "voivodeship": "małopolskie",
+    "teryt": "1213034",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Chełmno (1)",
+    "slug": "chelmno-1",
+    "voivodeship": "kujawsko-pomorskie",
+    "teryt": "0404011",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Chełmża (1)",
+    "slug": "chelmza-1",
+    "voivodeship": "kujawsko-pomorskie",
+    "teryt": "0415011",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Chmielnik - miasto (4)",
+    "slug": "chmielnik-miasto-4",
+    "voivodeship": "świętokrzyskie",
+    "teryt": "2604044",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Chocianów - miasto (4)",
+    "slug": "chocianow-miasto-4",
+    "voivodeship": "dolnośląskie",
+    "teryt": "0216014",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Chociwel - miasto (4)",
+    "slug": "chociwel-miasto-4",
+    "voivodeship": "zachodniopomorskie",
+    "teryt": "3214024",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Chocz - miasto (4)",
+    "slug": "chocz-miasto-4",
+    "voivodeship": "wielkopolskie",
+    "teryt": "3020014",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Chodecz - miasto (4)",
+    "slug": "chodecz-miasto-4",
+    "voivodeship": "kujawsko-pomorskie",
+    "teryt": "0418064",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Chodzież (1)",
+    "slug": "chodziez-1",
+    "voivodeship": "wielkopolskie",
+    "teryt": "3001011",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Chojna - miasto (4)",
+    "slug": "chojna-miasto-4",
+    "voivodeship": "zachodniopomorskie",
+    "teryt": "3206034",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Chojnice (1)",
+    "slug": "chojnice-1",
+    "voivodeship": "pomorskie",
+    "teryt": "2202011",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Chojnów (1)",
+    "slug": "chojnow-1",
+    "voivodeship": "dolnośląskie",
+    "teryt": "0209011",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Choroszcz - miasto (4)",
+    "slug": "choroszcz-miasto-4",
+    "voivodeship": "podlaskie",
+    "teryt": "2002014",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Chorzele - miasto (4)",
+    "slug": "chorzele-miasto-4",
+    "voivodeship": "mazowieckie",
+    "teryt": "1422024",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Chorzów (1)",
+    "slug": "chorzow-1",
+    "voivodeship": "śląskie",
+    "teryt": "2463011",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Choszczno - miasto (4)",
+    "slug": "choszczno-miasto-4",
+    "voivodeship": "zachodniopomorskie",
+    "teryt": "3202024",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Chrzanów - miasto (4)",
+    "slug": "chrzanow-miasto-4",
+    "voivodeship": "małopolskie",
+    "teryt": "1203034",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Chęciny - miasto (4)",
+    "slug": "checiny-miasto-4",
+    "voivodeship": "świętokrzyskie",
+    "teryt": "2604034",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Ciechanowiec - miasto (4)",
+    "slug": "ciechanowiec-miasto-4",
+    "voivodeship": "podlaskie",
+    "teryt": "2013024",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Ciechanów (1)",
+    "slug": "ciechanow-1",
+    "voivodeship": "mazowieckie",
+    "teryt": "1402011",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Ciechocinek (1)",
+    "slug": "ciechocinek-1",
+    "voivodeship": "kujawsko-pomorskie",
+    "teryt": "0401021",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Ciepielów - miasto (4)",
+    "slug": "ciepielow-miasto-4",
+    "voivodeship": "mazowieckie",
+    "teryt": "1409024",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Cieszanów - miasto (4)",
+    "slug": "cieszanow-miasto-4",
+    "voivodeship": "podkarpackie",
+    "teryt": "1809024",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Cieszyn (1)",
+    "slug": "cieszyn-1",
+    "voivodeship": "śląskie",
+    "teryt": "2403011",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Ciężkowice - miasto (4)",
+    "slug": "ciezkowice-miasto-4",
+    "voivodeship": "małopolskie",
+    "teryt": "1216014",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Cybinka - miasto (4)",
+    "slug": "cybinka-miasto-4",
+    "voivodeship": "lubuskie",
+    "teryt": "0805014",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Czaplinek - miasto (4)",
+    "slug": "czaplinek-miasto-4",
+    "voivodeship": "zachodniopomorskie",
+    "teryt": "3203014",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Czarna Białostocka - miasto (4)",
+    "slug": "czarna-bialostocka-miasto-4",
+    "voivodeship": "podlaskie",
+    "teryt": "2002024",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Czarna Woda - miasto (4)",
+    "slug": "czarna-woda-miasto-4",
+    "voivodeship": "pomorskie",
+    "teryt": "2213014",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Czarne - miasto (4)",
+    "slug": "czarne-miasto-4",
+    "voivodeship": "pomorskie",
+    "teryt": "2203024",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Czarnków (1)",
+    "slug": "czarnkow-1",
+    "voivodeship": "wielkopolskie",
+    "teryt": "3002011",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Czarny Dunajec - miasto (4)",
+    "slug": "czarny-dunajec-miasto-4",
+    "voivodeship": "małopolskie",
+    "teryt": "1211034",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Czchów - miasto (4)",
+    "slug": "czchow-miasto-4",
+    "voivodeship": "małopolskie",
+    "teryt": "1202034",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Czechowice-Dziedzice - miasto (4)",
+    "slug": "czechowice-dziedzice-miasto-4",
+    "voivodeship": "śląskie",
+    "teryt": "2402044",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Czeladź (1)",
+    "slug": "czeladz-1",
+    "voivodeship": "śląskie",
+    "teryt": "2401021",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Czemierniki - miasto (4)",
+    "slug": "czemierniki-miasto-4",
+    "voivodeship": "lubelskie",
+    "teryt": "0615034",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Czempiń - miasto (4)",
+    "slug": "czempin-miasto-4",
+    "voivodeship": "wielkopolskie",
+    "teryt": "3011024",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Czerniejewo - miasto (4)",
+    "slug": "czerniejewo-miasto-4",
+    "voivodeship": "wielkopolskie",
+    "teryt": "3003024",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Czersk - miasto (4)",
+    "slug": "czersk-miasto-4",
+    "voivodeship": "pomorskie",
+    "teryt": "2202044",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Czerwieńsk - miasto (4)",
+    "slug": "czerwiensk-miasto-4",
+    "voivodeship": "lubuskie",
+    "teryt": "0809034",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Czerwionka-Leszczyny - miasto (4)",
+    "slug": "czerwionka-leszczyny-miasto-4",
+    "voivodeship": "śląskie",
+    "teryt": "2412014",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Czerwińsk nad Wisłą - miasto (4)",
+    "slug": "czerwinsk-nad-wisla-miasto-4",
+    "voivodeship": "mazowieckie",
+    "teryt": "1420044",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Czyżew - miasto (4)",
+    "slug": "czyzew-miasto-4",
+    "voivodeship": "podlaskie",
+    "teryt": "2013034",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Częstochowa (1)",
+    "slug": "czestochowa-1",
+    "voivodeship": "śląskie",
+    "teryt": "2464011",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Człopa - miasto (4)",
+    "slug": "czlopa-miasto-4",
+    "voivodeship": "zachodniopomorskie",
+    "teryt": "3217024",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Człuchów (1)",
+    "slug": "czluchow-1",
+    "voivodeship": "pomorskie",
+    "teryt": "2203011",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Daleszyce - miasto (4)",
+    "slug": "daleszyce-miasto-4",
+    "voivodeship": "świętokrzyskie",
+    "teryt": "2604054",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Darłowo (1)",
+    "slug": "darlowo-1",
+    "voivodeship": "zachodniopomorskie",
+    "teryt": "3213011",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Debrzno - miasto (4)",
+    "slug": "debrzno-miasto-4",
+    "voivodeship": "pomorskie",
+    "teryt": "2203044",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Dobczyce - miasto (4)",
+    "slug": "dobczyce-miasto-4",
+    "voivodeship": "małopolskie",
+    "teryt": "1209014",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Dobiegniew - miasto (4)",
+    "slug": "dobiegniew-miasto-4",
+    "voivodeship": "lubuskie",
+    "teryt": "0806014",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Dobra - miasto (4)",
+    "slug": "dobra-miasto-4",
+    "voivodeship": "wielkopolskie",
+    "teryt": "3027034",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Dobra - miasto (4)",
+    "slug": "dobra-miasto-4-zachodniopomorskie",
+    "voivodeship": "zachodniopomorskie",
+    "teryt": "3218014",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Dobre - miasto (4)",
+    "slug": "dobre-miasto-4",
+    "voivodeship": "mazowieckie",
+    "teryt": "1412064",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Dobre Miasto - miasto (4)",
+    "slug": "dobre-miasto-miasto-4",
+    "voivodeship": "warmińsko-mazurskie",
+    "teryt": "2814034",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Dobrodzień - miasto (4)",
+    "slug": "dobrodzien-miasto-4",
+    "voivodeship": "opolskie",
+    "teryt": "1608014",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Dobrzany - miasto (4)",
+    "slug": "dobrzany-miasto-4",
+    "voivodeship": "zachodniopomorskie",
+    "teryt": "3214034",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Dobrzyca - miasto (4)",
+    "slug": "dobrzyca-miasto-4",
+    "voivodeship": "wielkopolskie",
+    "teryt": "3020034",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Dobrzyń nad Wisłą - miasto (4)",
+    "slug": "dobrzyn-nad-wisla-miasto-4",
+    "voivodeship": "kujawsko-pomorskie",
+    "teryt": "0408044",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Dolsk - miasto (4)",
+    "slug": "dolsk-miasto-4",
+    "voivodeship": "wielkopolskie",
+    "teryt": "3026024",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Drawno - miasto (4)",
+    "slug": "drawno-miasto-4",
+    "voivodeship": "zachodniopomorskie",
+    "teryt": "3202034",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Drawsko Pomorskie - miasto (4)",
+    "slug": "drawsko-pomorskie-miasto-4",
+    "voivodeship": "zachodniopomorskie",
+    "teryt": "3203024",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Drezdenko - miasto (4)",
+    "slug": "drezdenko-miasto-4",
+    "voivodeship": "lubuskie",
+    "teryt": "0806024",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Drobin - miasto (4)",
+    "slug": "drobin-miasto-4",
+    "voivodeship": "mazowieckie",
+    "teryt": "1419054",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Drohiczyn - miasto (4)",
+    "slug": "drohiczyn-miasto-4",
+    "voivodeship": "podlaskie",
+    "teryt": "2010024",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Drzewica - miasto (4)",
+    "slug": "drzewica-miasto-4",
+    "voivodeship": "łódzkie",
+    "teryt": "1007024",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Dubiecko - miasto (4)",
+    "slug": "dubiecko-miasto-4",
+    "voivodeship": "podkarpackie",
+    "teryt": "1813024",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Dukla - miasto (4)",
+    "slug": "dukla-miasto-4",
+    "voivodeship": "podkarpackie",
+    "teryt": "1807024",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Duszniki-Zdrój (1)",
+    "slug": "duszniki-zdroj-1",
+    "voivodeship": "dolnośląskie",
+    "teryt": "0208011",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Dynów (1)",
+    "slug": "dynow-1",
+    "voivodeship": "podkarpackie",
+    "teryt": "1816011",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Działdowo (1)",
+    "slug": "dzialdowo-1",
+    "voivodeship": "warmińsko-mazurskie",
+    "teryt": "2803011",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Działoszyce - miasto (4)",
+    "slug": "dzialoszyce-miasto-4",
+    "voivodeship": "świętokrzyskie",
+    "teryt": "2608014",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Działoszyn - miasto (4)",
+    "slug": "dzialoszyn-miasto-4",
+    "voivodeship": "łódzkie",
+    "teryt": "1009014",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Dzierzgoń - miasto (4)",
+    "slug": "dzierzgon-miasto-4",
+    "voivodeship": "pomorskie",
+    "teryt": "2216014",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Dzierżoniów (1)",
+    "slug": "dzierzoniow-1",
+    "voivodeship": "dolnośląskie",
+    "teryt": "0202021",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Dziwnów - miasto (4)",
+    "slug": "dziwnow-miasto-4",
+    "voivodeship": "zachodniopomorskie",
+    "teryt": "3207014",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Dąbie - miasto (4)",
+    "slug": "dabie-miasto-4",
+    "voivodeship": "wielkopolskie",
+    "teryt": "3009044",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Dąbrowa Białostocka - miasto (4)",
+    "slug": "dabrowa-bialostocka-miasto-4",
+    "voivodeship": "podlaskie",
+    "teryt": "2011014",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Dąbrowa Górnicza (1)",
+    "slug": "dabrowa-gornicza-1",
+    "voivodeship": "śląskie",
+    "teryt": "2465011",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Dąbrowa Tarnowska - miasto (4)",
+    "slug": "dabrowa-tarnowska-miasto-4",
+    "voivodeship": "małopolskie",
+    "teryt": "1204024",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Dąbrowice - miasto (4)",
+    "slug": "dabrowice-miasto-4",
+    "voivodeship": "łódzkie",
+    "teryt": "1002034",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Dębica (1)",
+    "slug": "debica-1",
+    "voivodeship": "podkarpackie",
+    "teryt": "1803011",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Dęblin (1)",
+    "slug": "deblin-1",
+    "voivodeship": "lubelskie",
+    "teryt": "0616011",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Dębno - miasto (4)",
+    "slug": "debno-miasto-4",
+    "voivodeship": "zachodniopomorskie",
+    "teryt": "3210034",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Elbląg (1)",
+    "slug": "elblag-1",
+    "voivodeship": "warmińsko-mazurskie",
+    "teryt": "2861011",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Ełk (1)",
+    "slug": "elk-1",
+    "voivodeship": "warmińsko-mazurskie",
+    "teryt": "2805011",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Frampol - miasto (4)",
+    "slug": "frampol-miasto-4",
+    "voivodeship": "lubelskie",
+    "teryt": "0602054",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Frombork - miasto (4)",
+    "slug": "frombork-miasto-4",
+    "voivodeship": "warmińsko-mazurskie",
+    "teryt": "2802034",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Garwolin (1)",
+    "slug": "garwolin-1",
+    "voivodeship": "mazowieckie",
+    "teryt": "1403011",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Gdańsk (1)",
+    "slug": "gdansk-1",
+    "voivodeship": "pomorskie",
+    "teryt": "2261011",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Gdynia (1)",
+    "slug": "gdynia-1",
+    "voivodeship": "pomorskie",
+    "teryt": "2262011",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Gielniów - miasto (4)",
+    "slug": "gielniow-miasto-4",
+    "voivodeship": "mazowieckie",
+    "teryt": "1423024",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Giżycko (1)",
+    "slug": "gizycko-1",
+    "voivodeship": "warmińsko-mazurskie",
+    "teryt": "2806011",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Glinojeck - miasto (4)",
+    "slug": "glinojeck-miasto-4",
+    "voivodeship": "mazowieckie",
+    "teryt": "1402034",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Gliwice (1)",
+    "slug": "gliwice-1",
+    "voivodeship": "śląskie",
+    "teryt": "2466011",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Gniew - miasto (4)",
+    "slug": "gniew-miasto-4",
+    "voivodeship": "pomorskie",
+    "teryt": "2214024",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Gniewkowo - miasto (4)",
+    "slug": "gniewkowo-miasto-4",
+    "voivodeship": "kujawsko-pomorskie",
+    "teryt": "0407034",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Gniezno (1)",
+    "slug": "gniezno-1",
+    "voivodeship": "wielkopolskie",
+    "teryt": "3003011",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Gogolin - miasto (4)",
+    "slug": "gogolin-miasto-4",
+    "voivodeship": "opolskie",
+    "teryt": "1605014",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Golczewo - miasto (4)",
+    "slug": "golczewo-miasto-4",
+    "voivodeship": "zachodniopomorskie",
+    "teryt": "3207024",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Goleniów - miasto (4)",
+    "slug": "goleniow-miasto-4",
+    "voivodeship": "zachodniopomorskie",
+    "teryt": "3204024",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Golina - miasto (4)",
+    "slug": "golina-miasto-4",
+    "voivodeship": "wielkopolskie",
+    "teryt": "3010014",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Golub-Dobrzyń (1)",
+    "slug": "golub-dobrzyn-1",
+    "voivodeship": "kujawsko-pomorskie",
+    "teryt": "0405011",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Goniądz - miasto (4)",
+    "slug": "goniadz-miasto-4",
+    "voivodeship": "podlaskie",
+    "teryt": "2008014",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Goraj - miasto (4)",
+    "slug": "goraj-miasto-4",
+    "voivodeship": "lubelskie",
+    "teryt": "0602064",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Gorlice (1)",
+    "slug": "gorlice-1",
+    "voivodeship": "małopolskie",
+    "teryt": "1205011",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Gorzów Wielkopolski (1)",
+    "slug": "gorzow-wielkopolski-1",
+    "voivodeship": "lubuskie",
+    "teryt": "0861011",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Gorzów Śląski - miasto (4)",
+    "slug": "gorzow-slaski-miasto-4",
+    "voivodeship": "opolskie",
+    "teryt": "1608024",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Gostynin (1)",
+    "slug": "gostynin-1",
+    "voivodeship": "mazowieckie",
+    "teryt": "1404011",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Gostyń - miasto (4)",
+    "slug": "gostyn-miasto-4",
+    "voivodeship": "wielkopolskie",
+    "teryt": "3004024",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Gowarczów - miasto (4)",
+    "slug": "gowarczow-miasto-4",
+    "voivodeship": "świętokrzyskie",
+    "teryt": "2605024",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Gozdnica (1)",
+    "slug": "gozdnica-1",
+    "voivodeship": "lubuskie",
+    "teryt": "0810011",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Gołańcz - miasto (4)",
+    "slug": "golancz-miasto-4",
+    "voivodeship": "wielkopolskie",
+    "teryt": "3028034",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Gołdap - miasto (4)",
+    "slug": "goldap-miasto-4",
+    "voivodeship": "warmińsko-mazurskie",
+    "teryt": "2818034",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Gościno - miasto (4)",
+    "slug": "goscino-miasto-4",
+    "voivodeship": "zachodniopomorskie",
+    "teryt": "3208034",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Grabów - miasto (4)",
+    "slug": "grabow-miasto-4",
+    "voivodeship": "łódzkie",
+    "teryt": "1004044",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Grabów nad Prosną - miasto (4)",
+    "slug": "grabow-nad-prosna-miasto-4",
+    "voivodeship": "wielkopolskie",
+    "teryt": "3018034",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Grajewo (1)",
+    "slug": "grajewo-1",
+    "voivodeship": "podlaskie",
+    "teryt": "2004011",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Grodków - miasto (4)",
+    "slug": "grodkow-miasto-4",
+    "voivodeship": "opolskie",
+    "teryt": "1601034",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Grodzisk Mazowiecki - miasto (4)",
+    "slug": "grodzisk-mazowiecki-miasto-4",
+    "voivodeship": "mazowieckie",
+    "teryt": "1405044",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Grodzisk Wielkopolski - miasto (4)",
+    "slug": "grodzisk-wielkopolski-miasto-4",
+    "voivodeship": "wielkopolskie",
+    "teryt": "3005024",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Grudziądz (1)",
+    "slug": "grudziadz-1",
+    "voivodeship": "kujawsko-pomorskie",
+    "teryt": "0462011",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Grybów (1)",
+    "slug": "grybow-1",
+    "voivodeship": "małopolskie",
+    "teryt": "1210011",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Gryfice - miasto (4)",
+    "slug": "gryfice-miasto-4",
+    "voivodeship": "zachodniopomorskie",
+    "teryt": "3205024",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Gryfino - miasto (4)",
+    "slug": "gryfino-miasto-4",
+    "voivodeship": "zachodniopomorskie",
+    "teryt": "3206044",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Gryfów Śląski - miasto (4)",
+    "slug": "gryfow-slaski-miasto-4",
+    "voivodeship": "dolnośląskie",
+    "teryt": "0212014",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Grójec - miasto (4)",
+    "slug": "grojec-miasto-4",
+    "voivodeship": "mazowieckie",
+    "teryt": "1406054",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Gubin (1)",
+    "slug": "gubin-1",
+    "voivodeship": "lubuskie",
+    "teryt": "0802011",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Góra - miasto (4)",
+    "slug": "gora-miasto-4",
+    "voivodeship": "dolnośląskie",
+    "teryt": "0204014",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Góra Kalwaria - miasto (4)",
+    "slug": "gora-kalwaria-miasto-4",
+    "voivodeship": "mazowieckie",
+    "teryt": "1418014",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Górowo Iławeckie (1)",
+    "slug": "gorowo-ilaweckie-1",
+    "voivodeship": "warmińsko-mazurskie",
+    "teryt": "2801021",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Górzno - miasto (4)",
+    "slug": "gorzno-miasto-4",
+    "voivodeship": "kujawsko-pomorskie",
+    "teryt": "0402054",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Gąbin - miasto (4)",
+    "slug": "gabin-miasto-4",
+    "voivodeship": "mazowieckie",
+    "teryt": "1419064",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Gąsawa - miasto (4)",
+    "slug": "gasawa-miasto-4",
+    "voivodeship": "kujawsko-pomorskie",
+    "teryt": "0419024",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Głogów (1)",
+    "slug": "glogow-1",
+    "voivodeship": "dolnośląskie",
+    "teryt": "0203011",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Głogów Małopolski - miasto (4)",
+    "slug": "glogow-malopolski-miasto-4",
+    "voivodeship": "podkarpackie",
+    "teryt": "1816064",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Głogówek - miasto (4)",
+    "slug": "glogowek-miasto-4",
+    "voivodeship": "opolskie",
+    "teryt": "1610024",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Głowaczów - miasto (4)",
+    "slug": "glowaczow-miasto-4",
+    "voivodeship": "mazowieckie",
+    "teryt": "1407024",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Głowno (1)",
+    "slug": "glowno-1",
+    "voivodeship": "łódzkie",
+    "teryt": "1020011",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Głubczyce - miasto (4)",
+    "slug": "glubczyce-miasto-4",
+    "voivodeship": "opolskie",
+    "teryt": "1602034",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Głuchołazy - miasto (4)",
+    "slug": "glucholazy-miasto-4",
+    "voivodeship": "opolskie",
+    "teryt": "1607014",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Głuszyca - miasto (4)",
+    "slug": "gluszyca-miasto-4",
+    "voivodeship": "dolnośląskie",
+    "teryt": "0221054",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Hajnówka (1)",
+    "slug": "hajnowka-1",
+    "voivodeship": "podlaskie",
+    "teryt": "2005011",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Halinów - miasto (4)",
+    "slug": "halinow-miasto-4",
+    "voivodeship": "mazowieckie",
+    "teryt": "1412074",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Hel (1)",
+    "slug": "hel-1",
+    "voivodeship": "pomorskie",
+    "teryt": "2211011",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Hrubieszów (1)",
+    "slug": "hrubieszow-1",
+    "voivodeship": "lubelskie",
+    "teryt": "0604011",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Imielin (1)",
+    "slug": "imielin-1",
+    "voivodeship": "śląskie",
+    "teryt": "2414021",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Inowrocław (1)",
+    "slug": "inowroclaw-1",
+    "voivodeship": "kujawsko-pomorskie",
+    "teryt": "0407011",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Inowłódz - miasto (4)",
+    "slug": "inowlodz-miasto-4",
+    "voivodeship": "łódzkie",
+    "teryt": "1016054",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Iwaniska - miasto (4)",
+    "slug": "iwaniska-miasto-4",
+    "voivodeship": "świętokrzyskie",
+    "teryt": "2606024",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Iwonicz-Zdrój - miasto (4)",
+    "slug": "iwonicz-zdroj-miasto-4",
+    "voivodeship": "podkarpackie",
+    "teryt": "1807034",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Izbica - miasto (4)",
+    "slug": "izbica-miasto-4",
+    "voivodeship": "lubelskie",
+    "teryt": "0606044",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Izbica Kujawska - miasto (4)",
+    "slug": "izbica-kujawska-miasto-4",
+    "voivodeship": "kujawsko-pomorskie",
+    "teryt": "0418084",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Iława (1)",
+    "slug": "ilawa-1",
+    "voivodeship": "warmińsko-mazurskie",
+    "teryt": "2807011",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Iłowa - miasto (4)",
+    "slug": "ilowa-miasto-4",
+    "voivodeship": "lubuskie",
+    "teryt": "0810044",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Iłża - miasto (4)",
+    "slug": "ilza-miasto-4",
+    "voivodeship": "mazowieckie",
+    "teryt": "1425034",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Ińsko - miasto (4)",
+    "slug": "insko-miasto-4",
+    "voivodeship": "zachodniopomorskie",
+    "teryt": "3214054",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Jabłonowo Pomorskie - miasto (4)",
+    "slug": "jablonowo-pomorskie-miasto-4",
+    "voivodeship": "kujawsko-pomorskie",
+    "teryt": "0402074",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Jadów - miasto (4)",
+    "slug": "jadow-miasto-4",
+    "voivodeship": "mazowieckie",
+    "teryt": "1434064",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Janikowo - miasto (4)",
+    "slug": "janikowo-miasto-4",
+    "voivodeship": "kujawsko-pomorskie",
+    "teryt": "0407054",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Janowiec Wielkopolski - miasto (4)",
+    "slug": "janowiec-wielkopolski-miasto-4",
+    "voivodeship": "kujawsko-pomorskie",
+    "teryt": "0419034",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Janów - miasto (4)",
+    "slug": "janow-miasto-4",
+    "voivodeship": "śląskie",
+    "teryt": "2404034",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Janów Lubelski - miasto (4)",
+    "slug": "janow-lubelski-miasto-4",
+    "voivodeship": "lubelskie",
+    "teryt": "0605054",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Janów Podlaski - miasto (4)",
+    "slug": "janow-podlaski-miasto-4",
+    "voivodeship": "lubelskie",
+    "teryt": "0601054",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Jaraczewo - miasto (4)",
+    "slug": "jaraczewo-miasto-4",
+    "voivodeship": "wielkopolskie",
+    "teryt": "3006014",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Jarocin - miasto (4)",
+    "slug": "jarocin-miasto-4",
+    "voivodeship": "wielkopolskie",
+    "teryt": "3006024",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Jarosław (1)",
+    "slug": "jaroslaw-1",
+    "voivodeship": "podkarpackie",
+    "teryt": "1804011",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Jasień - miasto (4)",
+    "slug": "jasien-miasto-4",
+    "voivodeship": "lubuskie",
+    "teryt": "0811044",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Jastarnia - miasto (4)",
+    "slug": "jastarnia-miasto-4",
+    "voivodeship": "pomorskie",
+    "teryt": "2211024",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Jastrowie - miasto (4)",
+    "slug": "jastrowie-miasto-4",
+    "voivodeship": "wielkopolskie",
+    "teryt": "3031024",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Jastrząb - miasto (4)",
+    "slug": "jastrzab-miasto-4",
+    "voivodeship": "mazowieckie",
+    "teryt": "1430024",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Jastrzębie-Zdrój (1)",
+    "slug": "jastrzebie-zdroj-1",
+    "voivodeship": "śląskie",
+    "teryt": "2467011",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Jasło (1)",
+    "slug": "jaslo-1",
+    "voivodeship": "podkarpackie",
+    "teryt": "1805011",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Jawor (1)",
+    "slug": "jawor-1",
+    "voivodeship": "dolnośląskie",
+    "teryt": "0205011",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Jawornik Polski - miasto (4)",
+    "slug": "jawornik-polski-miasto-4",
+    "voivodeship": "podkarpackie",
+    "teryt": "1814044",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Jaworzno (1)",
+    "slug": "jaworzno-1",
+    "voivodeship": "śląskie",
+    "teryt": "2468011",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Jaworzyna Śląska - miasto (4)",
+    "slug": "jaworzyna-slaska-miasto-4",
+    "voivodeship": "dolnośląskie",
+    "teryt": "0219044",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Jedlicze - miasto (4)",
+    "slug": "jedlicze-miasto-4",
+    "voivodeship": "podkarpackie",
+    "teryt": "1807044",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Jedlina-Zdrój (1)",
+    "slug": "jedlina-zdroj-1",
+    "voivodeship": "dolnośląskie",
+    "teryt": "0221021",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Jedlnia-Letnisko - miasto (4)",
+    "slug": "jedlnia-letnisko-miasto-4",
+    "voivodeship": "mazowieckie",
+    "teryt": "1425064",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Jedwabne - miasto (4)",
+    "slug": "jedwabne-miasto-4",
+    "voivodeship": "podlaskie",
+    "teryt": "2007014",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Jelcz-Laskowice - miasto (4)",
+    "slug": "jelcz-laskowice-miasto-4",
+    "voivodeship": "dolnośląskie",
+    "teryt": "0215034",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Jelenia Góra (1)",
+    "slug": "jelenia-gora-1",
+    "voivodeship": "dolnośląskie",
+    "teryt": "0261011",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Jeziorany - miasto (4)",
+    "slug": "jeziorany-miasto-4",
+    "voivodeship": "warmińsko-mazurskie",
+    "teryt": "2814064",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Jeżów - miasto (4)",
+    "slug": "jezow-miasto-4",
+    "voivodeship": "łódzkie",
+    "teryt": "1021044",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Jordanów (1)",
+    "slug": "jordanow-1",
+    "voivodeship": "małopolskie",
+    "teryt": "1215011",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Jutrosin - miasto (4)",
+    "slug": "jutrosin-miasto-4",
+    "voivodeship": "wielkopolskie",
+    "teryt": "3022024",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Józefów (1)",
+    "slug": "jozefow-1",
+    "voivodeship": "mazowieckie",
+    "teryt": "1417011",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Józefów - miasto (4)",
+    "slug": "jozefow-miasto-4",
+    "voivodeship": "lubelskie",
+    "teryt": "0602074",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Józefów nad Wisłą - miasto (4)",
+    "slug": "jozefow-nad-wisla-miasto-4",
+    "voivodeship": "lubelskie",
+    "teryt": "0612024",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Jędrzejów - miasto (4)",
+    "slug": "jedrzejow-miasto-4",
+    "voivodeship": "świętokrzyskie",
+    "teryt": "2602024",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Kaczory - miasto (4)",
+    "slug": "kaczory-miasto-4",
+    "voivodeship": "wielkopolskie",
+    "teryt": "3019034",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Kalety (1)",
+    "slug": "kalety-1",
+    "voivodeship": "śląskie",
+    "teryt": "2413011",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Kalisz (1)",
+    "slug": "kalisz-1",
+    "voivodeship": "wielkopolskie",
+    "teryt": "3061011",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Kalisz Pomorski - miasto (4)",
+    "slug": "kalisz-pomorski-miasto-4",
+    "voivodeship": "zachodniopomorskie",
+    "teryt": "3203034",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Kalwaria Zebrzydowska - miasto (4)",
+    "slug": "kalwaria-zebrzydowska-miasto-4",
+    "voivodeship": "małopolskie",
+    "teryt": "1218034",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Kamieniec Ząbkowicki - miasto (4)",
+    "slug": "kamieniec-zabkowicki-miasto-4",
+    "voivodeship": "dolnośląskie",
+    "teryt": "0224034",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Kamienna Góra (1)",
+    "slug": "kamienna-gora-1",
+    "voivodeship": "dolnośląskie",
+    "teryt": "0207011",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Kamień Krajeński - miasto (4)",
+    "slug": "kamien-krajenski-miasto-4",
+    "voivodeship": "kujawsko-pomorskie",
+    "teryt": "0413014",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Kamień Pomorski - miasto (4)",
+    "slug": "kamien-pomorski-miasto-4",
+    "voivodeship": "zachodniopomorskie",
+    "teryt": "3207034",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Kamieńsk - miasto (4)",
+    "slug": "kamiensk-miasto-4",
+    "voivodeship": "łódzkie",
+    "teryt": "1012054",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Kamionka - miasto (4)",
+    "slug": "kamionka-miasto-4",
+    "voivodeship": "lubelskie",
+    "teryt": "0608054",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Karczew - miasto (4)",
+    "slug": "karczew-miasto-4",
+    "voivodeship": "mazowieckie",
+    "teryt": "1417044",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Kargowa - miasto (4)",
+    "slug": "kargowa-miasto-4",
+    "voivodeship": "lubuskie",
+    "teryt": "0809044",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Karlino - miasto (4)",
+    "slug": "karlino-miasto-4",
+    "voivodeship": "zachodniopomorskie",
+    "teryt": "3201034",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Karpacz (1)",
+    "slug": "karpacz-1",
+    "voivodeship": "dolnośląskie",
+    "teryt": "0206011",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Kartuzy - miasto (4)",
+    "slug": "kartuzy-miasto-4",
+    "voivodeship": "pomorskie",
+    "teryt": "2205024",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Katowice (1)",
+    "slug": "katowice-1",
+    "voivodeship": "śląskie",
+    "teryt": "2469011",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Kazanów - miasto (4)",
+    "slug": "kazanow-miasto-4",
+    "voivodeship": "mazowieckie",
+    "teryt": "1436014",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Kazimierz Dolny - miasto (4)",
+    "slug": "kazimierz-dolny-miasto-4",
+    "voivodeship": "lubelskie",
+    "teryt": "0614044",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Kazimierza Wielka - miasto (4)",
+    "slug": "kazimierza-wielka-miasto-4",
+    "voivodeship": "świętokrzyskie",
+    "teryt": "2603034",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Kałuszyn - miasto (4)",
+    "slug": "kaluszyn-miasto-4",
+    "voivodeship": "mazowieckie",
+    "teryt": "1412094",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Kańczuga - miasto (4)",
+    "slug": "kanczuga-miasto-4",
+    "voivodeship": "podkarpackie",
+    "teryt": "1814054",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Kcynia - miasto (4)",
+    "slug": "kcynia-miasto-4",
+    "voivodeship": "kujawsko-pomorskie",
+    "teryt": "0410014",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Kielce (1)",
+    "slug": "kielce-1",
+    "voivodeship": "świętokrzyskie",
+    "teryt": "2661011",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Kiernozia - miasto (4)",
+    "slug": "kiernozia-miasto-4",
+    "voivodeship": "łódzkie",
+    "teryt": "1005054",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Kietrz - miasto (4)",
+    "slug": "kietrz-miasto-4",
+    "voivodeship": "opolskie",
+    "teryt": "1602044",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Kikół - miasto (4)",
+    "slug": "kikol-miasto-4",
+    "voivodeship": "kujawsko-pomorskie",
+    "teryt": "0408054",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Kisielice - miasto (4)",
+    "slug": "kisielice-miasto-4",
+    "voivodeship": "warmińsko-mazurskie",
+    "teryt": "2807044",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Kleczew - miasto (4)",
+    "slug": "kleczew-miasto-4",
+    "voivodeship": "wielkopolskie",
+    "teryt": "3010044",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Kleszczele - miasto (4)",
+    "slug": "kleszczele-miasto-4",
+    "voivodeship": "podlaskie",
+    "teryt": "2005074",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Klimontów - miasto (4)",
+    "slug": "klimontow-miasto-4",
+    "voivodeship": "świętokrzyskie",
+    "teryt": "2609034",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Kluczbork - miasto (4)",
+    "slug": "kluczbork-miasto-4",
+    "voivodeship": "opolskie",
+    "teryt": "1604024",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Knurów (1)",
+    "slug": "knurow-1",
+    "voivodeship": "śląskie",
+    "teryt": "2405011",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Knyszyn - miasto (4)",
+    "slug": "knyszyn-miasto-4",
+    "voivodeship": "podlaskie",
+    "teryt": "2008044",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Kobylin - miasto (4)",
+    "slug": "kobylin-miasto-4",
+    "voivodeship": "wielkopolskie",
+    "teryt": "3012024",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Kobylnica - miasto (4)",
+    "slug": "kobylnica-miasto-4",
+    "voivodeship": "pomorskie",
+    "teryt": "2212064",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Kobyłka (1)",
+    "slug": "kobylka-1",
+    "voivodeship": "mazowieckie",
+    "teryt": "1434011",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Kock - miasto (4)",
+    "slug": "kock-miasto-4",
+    "voivodeship": "lubelskie",
+    "teryt": "0608064",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Kolbuszowa - miasto (4)",
+    "slug": "kolbuszowa-miasto-4",
+    "voivodeship": "podkarpackie",
+    "teryt": "1806024",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Kolno (1)",
+    "slug": "kolno-1",
+    "voivodeship": "podlaskie",
+    "teryt": "2006011",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Kolonowskie - miasto (4)",
+    "slug": "kolonowskie-miasto-4",
+    "voivodeship": "opolskie",
+    "teryt": "1611034",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Koluszki - miasto (4)",
+    "slug": "koluszki-miasto-4",
+    "voivodeship": "łódzkie",
+    "teryt": "1006074",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Koniecpol - miasto (4)",
+    "slug": "koniecpol-miasto-4",
+    "voivodeship": "śląskie",
+    "teryt": "2404064",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Konin (1)",
+    "slug": "konin-1",
+    "voivodeship": "wielkopolskie",
+    "teryt": "3062011",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Konstancin-Jeziorna - miasto (4)",
+    "slug": "konstancin-jeziorna-miasto-4",
+    "voivodeship": "mazowieckie",
+    "teryt": "1418024",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Konstantynów Łódzki (1)",
+    "slug": "konstantynow-lodzki-1",
+    "voivodeship": "łódzkie",
+    "teryt": "1008011",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Koprzywnica - miasto (4)",
+    "slug": "koprzywnica-miasto-4",
+    "voivodeship": "świętokrzyskie",
+    "teryt": "2609044",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Korfantów - miasto (4)",
+    "slug": "korfantow-miasto-4",
+    "voivodeship": "opolskie",
+    "teryt": "1607034",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Koronowo - miasto (4)",
+    "slug": "koronowo-miasto-4",
+    "voivodeship": "kujawsko-pomorskie",
+    "teryt": "0403044",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Korsze - miasto (4)",
+    "slug": "korsze-miasto-4",
+    "voivodeship": "warmińsko-mazurskie",
+    "teryt": "2808044",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Kostrzyn - miasto (4)",
+    "slug": "kostrzyn-miasto-4",
+    "voivodeship": "wielkopolskie",
+    "teryt": "3021084",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Kostrzyn nad Odrą (1)",
+    "slug": "kostrzyn-nad-odra-1",
+    "voivodeship": "lubuskie",
+    "teryt": "0801011",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Koszalin (1)",
+    "slug": "koszalin-1",
+    "voivodeship": "zachodniopomorskie",
+    "teryt": "3261011",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Koszyce - miasto (4)",
+    "slug": "koszyce-miasto-4",
+    "voivodeship": "małopolskie",
+    "teryt": "1214024",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Kosów Lacki - miasto (4)",
+    "slug": "kosow-lacki-miasto-4",
+    "voivodeship": "mazowieckie",
+    "teryt": "1429054",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Kowal (1)",
+    "slug": "kowal-1",
+    "voivodeship": "kujawsko-pomorskie",
+    "teryt": "0418011",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Kowalewo Pomorskie - miasto (4)",
+    "slug": "kowalewo-pomorskie-miasto-4",
+    "voivodeship": "kujawsko-pomorskie",
+    "teryt": "0405044",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Kowary (1)",
+    "slug": "kowary-1",
+    "voivodeship": "dolnośląskie",
+    "teryt": "0206021",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Koziegłowy - miasto (4)",
+    "slug": "kozieglowy-miasto-4",
+    "voivodeship": "śląskie",
+    "teryt": "2409024",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Kozienice - miasto (4)",
+    "slug": "kozienice-miasto-4",
+    "voivodeship": "mazowieckie",
+    "teryt": "1407054",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Kołaczyce - miasto (4)",
+    "slug": "kolaczyce-miasto-4",
+    "voivodeship": "podkarpackie",
+    "teryt": "1805054",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Koło (1)",
+    "slug": "kolo-1",
+    "voivodeship": "wielkopolskie",
+    "teryt": "3009011",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Kołobrzeg (1)",
+    "slug": "kolobrzeg-1",
+    "voivodeship": "zachodniopomorskie",
+    "teryt": "3208011",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Końskie - miasto (4)",
+    "slug": "konskie-miasto-4",
+    "voivodeship": "świętokrzyskie",
+    "teryt": "2605034",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Końskowola - miasto (4)",
+    "slug": "konskowola-miasto-4",
+    "voivodeship": "lubelskie",
+    "teryt": "0614054",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Kościan (1)",
+    "slug": "koscian-1",
+    "voivodeship": "wielkopolskie",
+    "teryt": "3011011",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Kościerzyna (1)",
+    "slug": "koscierzyna-1",
+    "voivodeship": "pomorskie",
+    "teryt": "2206011",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Koźmin Wielkopolski - miasto (4)",
+    "slug": "kozmin-wielkopolski-miasto-4",
+    "voivodeship": "wielkopolskie",
+    "teryt": "3012034",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Koźminek - miasto (4)",
+    "slug": "kozminek-miasto-4",
+    "voivodeship": "wielkopolskie",
+    "teryt": "3007054",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Kożuchów - miasto (4)",
+    "slug": "kozuchow-miasto-4",
+    "voivodeship": "lubuskie",
+    "teryt": "0804044",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Krajenka - miasto (4)",
+    "slug": "krajenka-miasto-4",
+    "voivodeship": "wielkopolskie",
+    "teryt": "3031034",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Kraków (1)",
+    "slug": "krakow-1",
+    "voivodeship": "małopolskie",
+    "teryt": "1261011",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Krapkowice - miasto (4)",
+    "slug": "krapkowice-miasto-4",
+    "voivodeship": "opolskie",
+    "teryt": "1605024",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Krasnobród - miasto (4)",
+    "slug": "krasnobrod-miasto-4",
+    "voivodeship": "lubelskie",
+    "teryt": "0620044",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Krasnystaw (1)",
+    "slug": "krasnystaw-1",
+    "voivodeship": "lubelskie",
+    "teryt": "0606011",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Kraśnik (1)",
+    "slug": "krasnik-1",
+    "voivodeship": "lubelskie",
+    "teryt": "0607011",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Krobia - miasto (4)",
+    "slug": "krobia-miasto-4",
+    "voivodeship": "wielkopolskie",
+    "teryt": "3004034",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Krosno (1)",
+    "slug": "krosno-1",
+    "voivodeship": "podkarpackie",
+    "teryt": "1861011",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Krosno Odrzańskie - miasto (4)",
+    "slug": "krosno-odrzanskie-miasto-4",
+    "voivodeship": "lubuskie",
+    "teryt": "0802064",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Krotoszyn - miasto (4)",
+    "slug": "krotoszyn-miasto-4",
+    "voivodeship": "wielkopolskie",
+    "teryt": "3012044",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Krośniewice - miasto (4)",
+    "slug": "krosniewice-miasto-4",
+    "voivodeship": "łódzkie",
+    "teryt": "1002044",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Kruszwica - miasto (4)",
+    "slug": "kruszwica-miasto-4",
+    "voivodeship": "kujawsko-pomorskie",
+    "teryt": "0407064",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Krynica Morska (1)",
+    "slug": "krynica-morska-1",
+    "voivodeship": "pomorskie",
+    "teryt": "2210011",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Krynica-Zdrój - miasto (4)",
+    "slug": "krynica-zdroj-miasto-4",
+    "voivodeship": "małopolskie",
+    "teryt": "1210074",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Krynki - miasto (4)",
+    "slug": "krynki-miasto-4",
+    "voivodeship": "podlaskie",
+    "teryt": "2011044",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Krzanowice - miasto (4)",
+    "slug": "krzanowice-miasto-4",
+    "voivodeship": "śląskie",
+    "teryt": "2411034",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Krzepice - miasto (4)",
+    "slug": "krzepice-miasto-4",
+    "voivodeship": "śląskie",
+    "teryt": "2406024",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Krzeszowice - miasto (4)",
+    "slug": "krzeszowice-miasto-4",
+    "voivodeship": "małopolskie",
+    "teryt": "1206064",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Krzywiń - miasto (4)",
+    "slug": "krzywin-miasto-4",
+    "voivodeship": "wielkopolskie",
+    "teryt": "3011044",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Krzyż Wielkopolski - miasto (4)",
+    "slug": "krzyz-wielkopolski-miasto-4",
+    "voivodeship": "wielkopolskie",
+    "teryt": "3002044",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Książ Wielki - miasto (4)",
+    "slug": "ksiaz-wielki-miasto-4",
+    "voivodeship": "małopolskie",
+    "teryt": "1208044",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Książ Wielkopolski - miasto (4)",
+    "slug": "ksiaz-wielkopolski-miasto-4",
+    "voivodeship": "wielkopolskie",
+    "teryt": "3026034",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Kudowa-Zdrój (1)",
+    "slug": "kudowa-zdroj-1",
+    "voivodeship": "dolnośląskie",
+    "teryt": "0208031",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Kunów - miasto (4)",
+    "slug": "kunow-miasto-4",
+    "voivodeship": "świętokrzyskie",
+    "teryt": "2607054",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Kurów - miasto (4)",
+    "slug": "kurow-miasto-4",
+    "voivodeship": "lubelskie",
+    "teryt": "0614064",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Kutno (1)",
+    "slug": "kutno-1",
+    "voivodeship": "łódzkie",
+    "teryt": "1002011",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Kuźnia Raciborska - miasto (4)",
+    "slug": "kuznia-raciborska-miasto-4",
+    "voivodeship": "śląskie",
+    "teryt": "2411054",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Kwidzyn (1)",
+    "slug": "kwidzyn-1",
+    "voivodeship": "pomorskie",
+    "teryt": "2207011",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Kórnik - miasto (4)",
+    "slug": "kornik-miasto-4",
+    "voivodeship": "wielkopolskie",
+    "teryt": "3021094",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Kąty Wrocławskie - miasto (4)",
+    "slug": "katy-wroclawskie-miasto-4",
+    "voivodeship": "dolnośląskie",
+    "teryt": "0223044",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Kędzierzyn-Koźle (1)",
+    "slug": "kedzierzyn-kozle-1",
+    "voivodeship": "opolskie",
+    "teryt": "1603011",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Kępice - miasto (4)",
+    "slug": "kepice-miasto-4",
+    "voivodeship": "pomorskie",
+    "teryt": "2212054",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Kępno - miasto (4)",
+    "slug": "kepno-miasto-4",
+    "voivodeship": "wielkopolskie",
+    "teryt": "3008034",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Kętrzyn (1)",
+    "slug": "ketrzyn-1",
+    "voivodeship": "warmińsko-mazurskie",
+    "teryt": "2808011",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Kęty - miasto (4)",
+    "slug": "kety-miasto-4",
+    "voivodeship": "małopolskie",
+    "teryt": "1213044",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Kłecko - miasto (4)",
+    "slug": "klecko-miasto-4",
+    "voivodeship": "wielkopolskie",
+    "teryt": "3003054",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Kłobuck - miasto (4)",
+    "slug": "klobuck-miasto-4",
+    "voivodeship": "śląskie",
+    "teryt": "2406014",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Kłodawa - miasto (4)",
+    "slug": "klodawa-miasto-4",
+    "voivodeship": "wielkopolskie",
+    "teryt": "3009064",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Kłodzko (1)",
+    "slug": "klodzko-1",
+    "voivodeship": "dolnośląskie",
+    "teryt": "0208021",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Latowicz - miasto (4)",
+    "slug": "latowicz-miasto-4",
+    "voivodeship": "mazowieckie",
+    "teryt": "1412104",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Legionowo (1)",
+    "slug": "legionowo-1",
+    "voivodeship": "mazowieckie",
+    "teryt": "1408011",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Legnica (1)",
+    "slug": "legnica-1",
+    "voivodeship": "dolnośląskie",
+    "teryt": "0262011",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Lesko - miasto (4)",
+    "slug": "lesko-miasto-4",
+    "voivodeship": "podkarpackie",
+    "teryt": "1821034",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Leszno (1)",
+    "slug": "leszno-1",
+    "voivodeship": "wielkopolskie",
+    "teryt": "3063011",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Lewin Brzeski - miasto (4)",
+    "slug": "lewin-brzeski-miasto-4",
+    "voivodeship": "opolskie",
+    "teryt": "1601044",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Leśna - miasto (4)",
+    "slug": "lesna-miasto-4",
+    "voivodeship": "dolnośląskie",
+    "teryt": "0210034",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Leśnica - miasto (4)",
+    "slug": "lesnica-miasto-4",
+    "voivodeship": "opolskie",
+    "teryt": "1611044",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Leżajsk (1)",
+    "slug": "lezajsk-1",
+    "voivodeship": "podkarpackie",
+    "teryt": "1808011",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Libiąż - miasto (4)",
+    "slug": "libiaz-miasto-4",
+    "voivodeship": "małopolskie",
+    "teryt": "1203044",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Lidzbark - miasto (4)",
+    "slug": "lidzbark-miasto-4",
+    "voivodeship": "warmińsko-mazurskie",
+    "teryt": "2803044",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Lidzbark Warmiński (1)",
+    "slug": "lidzbark-warminski-1",
+    "voivodeship": "warmińsko-mazurskie",
+    "teryt": "2809011",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Limanowa (1)",
+    "slug": "limanowa-1",
+    "voivodeship": "małopolskie",
+    "teryt": "1207011",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Lipiany - miasto (4)",
+    "slug": "lipiany-miasto-4",
+    "voivodeship": "zachodniopomorskie",
+    "teryt": "3212034",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Lipno (1)",
+    "slug": "lipno-1",
+    "voivodeship": "kujawsko-pomorskie",
+    "teryt": "0408011",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Lipsk - miasto (4)",
+    "slug": "lipsk-miasto-4",
+    "voivodeship": "podlaskie",
+    "teryt": "2001044",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Lipsko - miasto (4)",
+    "slug": "lipsko-miasto-4",
+    "voivodeship": "mazowieckie",
+    "teryt": "1409034",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Lubaczów (1)",
+    "slug": "lubaczow-1",
+    "voivodeship": "podkarpackie",
+    "teryt": "1809011",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Lubartów (1)",
+    "slug": "lubartow-1",
+    "voivodeship": "lubelskie",
+    "teryt": "0608011",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Lubawa (1)",
+    "slug": "lubawa-1",
+    "voivodeship": "warmińsko-mazurskie",
+    "teryt": "2807021",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Lubawka - miasto (4)",
+    "slug": "lubawka-miasto-4",
+    "voivodeship": "dolnośląskie",
+    "teryt": "0207034",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Lubań (1)",
+    "slug": "luban-1",
+    "voivodeship": "dolnośląskie",
+    "teryt": "0210011",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Lubień Kujawski - miasto (4)",
+    "slug": "lubien-kujawski-miasto-4",
+    "voivodeship": "kujawsko-pomorskie",
+    "teryt": "0418114",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Lubin (1)",
+    "slug": "lubin-1",
+    "voivodeship": "dolnośląskie",
+    "teryt": "0211011",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Lublin (1)",
+    "slug": "lublin-1",
+    "voivodeship": "lubelskie",
+    "teryt": "0663011",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Lubliniec (1)",
+    "slug": "lubliniec-1",
+    "voivodeship": "śląskie",
+    "teryt": "2407011",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Lubniewice - miasto (4)",
+    "slug": "lubniewice-miasto-4",
+    "voivodeship": "lubuskie",
+    "teryt": "0807024",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Lubomierz - miasto (4)",
+    "slug": "lubomierz-miasto-4",
+    "voivodeship": "dolnośląskie",
+    "teryt": "0212024",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Lubowidz - miasto (4)",
+    "slug": "lubowidz-miasto-4",
+    "voivodeship": "mazowieckie",
+    "teryt": "1437034",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Luboń (1)",
+    "slug": "lubon-1",
+    "voivodeship": "wielkopolskie",
+    "teryt": "3021011",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Lubraniec - miasto (4)",
+    "slug": "lubraniec-miasto-4",
+    "voivodeship": "kujawsko-pomorskie",
+    "teryt": "0418124",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Lubsko - miasto (4)",
+    "slug": "lubsko-miasto-4",
+    "voivodeship": "lubuskie",
+    "teryt": "0811064",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Lubycza Królewska - miasto (4)",
+    "slug": "lubycza-krolewska-miasto-4",
+    "voivodeship": "lubelskie",
+    "teryt": "0618054",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Lutomiersk - miasto (4)",
+    "slug": "lutomiersk-miasto-4",
+    "voivodeship": "łódzkie",
+    "teryt": "1008064",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Lututów - miasto (4)",
+    "slug": "lututow-miasto-4",
+    "voivodeship": "łódzkie",
+    "teryt": "1018044",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Lwówek - miasto (4)",
+    "slug": "lwowek-miasto-4",
+    "voivodeship": "wielkopolskie",
+    "teryt": "3015024",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Lwówek Śląski - miasto (4)",
+    "slug": "lwowek-slaski-miasto-4",
+    "voivodeship": "dolnośląskie",
+    "teryt": "0212034",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Lądek-Zdrój - miasto (4)",
+    "slug": "ladek-zdroj-miasto-4",
+    "voivodeship": "dolnośląskie",
+    "teryt": "0208084",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Lębork (1)",
+    "slug": "lebork-1",
+    "voivodeship": "pomorskie",
+    "teryt": "2208011",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Lędziny (1)",
+    "slug": "ledziny-1",
+    "voivodeship": "śląskie",
+    "teryt": "2414031",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "M.st.Warszawa (1)",
+    "slug": "m-st-warszawa-1",
+    "voivodeship": "mazowieckie",
+    "teryt": "1465011",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Maciejowice - miasto (4)",
+    "slug": "maciejowice-miasto-4",
+    "voivodeship": "mazowieckie",
+    "teryt": "1403074",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Magnuszew - miasto (4)",
+    "slug": "magnuszew-miasto-4",
+    "voivodeship": "mazowieckie",
+    "teryt": "1407064",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Maków Mazowiecki (1)",
+    "slug": "makow-mazowiecki-1",
+    "voivodeship": "mazowieckie",
+    "teryt": "1411011",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Maków Podhalański - miasto (4)",
+    "slug": "makow-podhalanski-miasto-4",
+    "voivodeship": "małopolskie",
+    "teryt": "1215064",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Malbork (1)",
+    "slug": "malbork-1",
+    "voivodeship": "pomorskie",
+    "teryt": "2209011",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Margonin - miasto (4)",
+    "slug": "margonin-miasto-4",
+    "voivodeship": "wielkopolskie",
+    "teryt": "3001044",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Marki (1)",
+    "slug": "marki-1",
+    "voivodeship": "mazowieckie",
+    "teryt": "1434021",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Maszewo - miasto (4)",
+    "slug": "maszewo-miasto-4",
+    "voivodeship": "zachodniopomorskie",
+    "teryt": "3204034",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Małkinia Górna - miasto (4)",
+    "slug": "malkinia-gorna-miasto-4",
+    "voivodeship": "mazowieckie",
+    "teryt": "1416054",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Małogoszcz - miasto (4)",
+    "slug": "malogoszcz-miasto-4",
+    "voivodeship": "świętokrzyskie",
+    "teryt": "2602034",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Małomice - miasto (4)",
+    "slug": "malomice-miasto-4",
+    "voivodeship": "lubuskie",
+    "teryt": "0810054",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Miasteczko Krajeńskie - miasto (4)",
+    "slug": "miasteczko-krajenskie-miasto-4",
+    "voivodeship": "wielkopolskie",
+    "teryt": "3019054",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Miasteczko Śląskie (1)",
+    "slug": "miasteczko-slaskie-1",
+    "voivodeship": "śląskie",
+    "teryt": "2413021",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Miastko - miasto (4)",
+    "slug": "miastko-miasto-4",
+    "voivodeship": "pomorskie",
+    "teryt": "2201064",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Michałowo - miasto (4)",
+    "slug": "michalowo-miasto-4",
+    "voivodeship": "podlaskie",
+    "teryt": "2002074",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Miechów - miasto (4)",
+    "slug": "miechow-miasto-4",
+    "voivodeship": "małopolskie",
+    "teryt": "1208054",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Miejska Górka - miasto (4)",
+    "slug": "miejska-gorka-miasto-4",
+    "voivodeship": "wielkopolskie",
+    "teryt": "3022034",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Mielec (1)",
+    "slug": "mielec-1",
+    "voivodeship": "podkarpackie",
+    "teryt": "1811011",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Mielno - miasto (4)",
+    "slug": "mielno-miasto-4",
+    "voivodeship": "zachodniopomorskie",
+    "teryt": "3209054",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Mieroszów - miasto (4)",
+    "slug": "mieroszow-miasto-4",
+    "voivodeship": "dolnośląskie",
+    "teryt": "0221064",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Mieszkowice - miasto (4)",
+    "slug": "mieszkowice-miasto-4",
+    "voivodeship": "zachodniopomorskie",
+    "teryt": "3206054",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Mieścisko - miasto (4)",
+    "slug": "miescisko-miasto-4",
+    "voivodeship": "wielkopolskie",
+    "teryt": "3028044",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Mikołajki - miasto (4)",
+    "slug": "mikolajki-miasto-4",
+    "voivodeship": "warmińsko-mazurskie",
+    "teryt": "2810024",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Mikołów (1)",
+    "slug": "mikolow-1",
+    "voivodeship": "śląskie",
+    "teryt": "2408021",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Mikstat - miasto (4)",
+    "slug": "mikstat-miasto-4",
+    "voivodeship": "wielkopolskie",
+    "teryt": "3018064",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Milanówek (1)",
+    "slug": "milanowek-1",
+    "voivodeship": "mazowieckie",
+    "teryt": "1405011",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Milicz - miasto (4)",
+    "slug": "milicz-miasto-4",
+    "voivodeship": "dolnośląskie",
+    "teryt": "0213034",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Mirosławiec - miasto (4)",
+    "slug": "miroslawiec-miasto-4",
+    "voivodeship": "zachodniopomorskie",
+    "teryt": "3217034",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Mirsk - miasto (4)",
+    "slug": "mirsk-miasto-4",
+    "voivodeship": "dolnośląskie",
+    "teryt": "0212044",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Międzybórz - miasto (4)",
+    "slug": "miedzyborz-miasto-4",
+    "voivodeship": "dolnośląskie",
+    "teryt": "0214054",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Międzychód - miasto (4)",
+    "slug": "miedzychod-miasto-4",
+    "voivodeship": "wielkopolskie",
+    "teryt": "3014034",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Międzylesie - miasto (4)",
+    "slug": "miedzylesie-miasto-4",
+    "voivodeship": "dolnośląskie",
+    "teryt": "0208104",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Międzyrzec Podlaski (1)",
+    "slug": "miedzyrzec-podlaski-1",
+    "voivodeship": "lubelskie",
+    "teryt": "0601011",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Międzyrzecz - miasto (4)",
+    "slug": "miedzyrzecz-miasto-4",
+    "voivodeship": "lubuskie",
+    "teryt": "0803024",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Międzyzdroje - miasto (4)",
+    "slug": "miedzyzdroje-miasto-4",
+    "voivodeship": "zachodniopomorskie",
+    "teryt": "3207044",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Miękinia - miasto (4)",
+    "slug": "miekinia-miasto-4",
+    "voivodeship": "dolnośląskie",
+    "teryt": "0218034",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Miłakowo - miasto (4)",
+    "slug": "milakowo-miasto-4",
+    "voivodeship": "warmińsko-mazurskie",
+    "teryt": "2815064",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Miłomłyn - miasto (4)",
+    "slug": "milomlyn-miasto-4",
+    "voivodeship": "warmińsko-mazurskie",
+    "teryt": "2815074",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Miłosław - miasto (4)",
+    "slug": "miloslaw-miasto-4",
+    "voivodeship": "wielkopolskie",
+    "teryt": "3030024",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Mińsk Mazowiecki (1)",
+    "slug": "minsk-mazowiecki-1",
+    "voivodeship": "mazowieckie",
+    "teryt": "1412011",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Modliborzyce - miasto (4)",
+    "slug": "modliborzyce-miasto-4",
+    "voivodeship": "lubelskie",
+    "teryt": "0605064",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Mogielnica - miasto (4)",
+    "slug": "mogielnica-miasto-4",
+    "voivodeship": "mazowieckie",
+    "teryt": "1406074",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Mogilno - miasto (4)",
+    "slug": "mogilno-miasto-4",
+    "voivodeship": "kujawsko-pomorskie",
+    "teryt": "0409034",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Morawica - miasto (4)",
+    "slug": "morawica-miasto-4",
+    "voivodeship": "świętokrzyskie",
+    "teryt": "2604124",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Mordy - miasto (4)",
+    "slug": "mordy-miasto-4",
+    "voivodeship": "mazowieckie",
+    "teryt": "1426054",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Moryń - miasto (4)",
+    "slug": "moryn-miasto-4",
+    "voivodeship": "zachodniopomorskie",
+    "teryt": "3206064",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Morąg - miasto (4)",
+    "slug": "morag-miasto-4",
+    "voivodeship": "warmińsko-mazurskie",
+    "teryt": "2815084",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Mosina - miasto (4)",
+    "slug": "mosina-miasto-4",
+    "voivodeship": "wielkopolskie",
+    "teryt": "3021104",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Mońki - miasto (4)",
+    "slug": "monki-miasto-4",
+    "voivodeship": "podlaskie",
+    "teryt": "2008064",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Mrocza - miasto (4)",
+    "slug": "mrocza-miasto-4",
+    "voivodeship": "kujawsko-pomorskie",
+    "teryt": "0410024",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Mrozy - miasto (4)",
+    "slug": "mrozy-miasto-4",
+    "voivodeship": "mazowieckie",
+    "teryt": "1412124",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Mrągowo (1)",
+    "slug": "mragowo-1",
+    "voivodeship": "warmińsko-mazurskie",
+    "teryt": "2810011",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Mszana Dolna (1)",
+    "slug": "mszana-dolna-1",
+    "voivodeship": "małopolskie",
+    "teryt": "1207021",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Mszczonów - miasto (4)",
+    "slug": "mszczonow-miasto-4",
+    "voivodeship": "mazowieckie",
+    "teryt": "1438024",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Murowana Goślina - miasto (4)",
+    "slug": "murowana-goslina-miasto-4",
+    "voivodeship": "wielkopolskie",
+    "teryt": "3021114",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Muszyna - miasto (4)",
+    "slug": "muszyna-miasto-4",
+    "voivodeship": "małopolskie",
+    "teryt": "1210114",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Myszków (1)",
+    "slug": "myszkow-1",
+    "voivodeship": "śląskie",
+    "teryt": "2409011",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Myszyniec - miasto (4)",
+    "slug": "myszyniec-miasto-4",
+    "voivodeship": "mazowieckie",
+    "teryt": "1415084",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Mysłowice (1)",
+    "slug": "myslowice-1",
+    "voivodeship": "śląskie",
+    "teryt": "2470011",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Myślenice - miasto (4)",
+    "slug": "myslenice-miasto-4",
+    "voivodeship": "małopolskie",
+    "teryt": "1209034",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Myślibórz - miasto (4)",
+    "slug": "mysliborz-miasto-4",
+    "voivodeship": "zachodniopomorskie",
+    "teryt": "3210044",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Mława (1)",
+    "slug": "mlawa-1",
+    "voivodeship": "mazowieckie",
+    "teryt": "1413011",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Młynary - miasto (4)",
+    "slug": "mlynary-miasto-4",
+    "voivodeship": "warmińsko-mazurskie",
+    "teryt": "2804064",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Nakło nad Notecią - miasto (4)",
+    "slug": "naklo-nad-notecia-miasto-4",
+    "voivodeship": "kujawsko-pomorskie",
+    "teryt": "0410034",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Namysłów - miasto (4)",
+    "slug": "namyslow-miasto-4",
+    "voivodeship": "opolskie",
+    "teryt": "1606024",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Narol - miasto (4)",
+    "slug": "narol-miasto-4",
+    "voivodeship": "podkarpackie",
+    "teryt": "1809054",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Nasielsk - miasto (4)",
+    "slug": "nasielsk-miasto-4",
+    "voivodeship": "mazowieckie",
+    "teryt": "1414044",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Nałęczów - miasto (4)",
+    "slug": "naleczow-miasto-4",
+    "voivodeship": "lubelskie",
+    "teryt": "0614084",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Nekla - miasto (4)",
+    "slug": "nekla-miasto-4",
+    "voivodeship": "wielkopolskie",
+    "teryt": "3030034",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Nidzica - miasto (4)",
+    "slug": "nidzica-miasto-4",
+    "voivodeship": "warmińsko-mazurskie",
+    "teryt": "2811044",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Niemcza - miasto (4)",
+    "slug": "niemcza-miasto-4",
+    "voivodeship": "dolnośląskie",
+    "teryt": "0202074",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Niemodlin - miasto (4)",
+    "slug": "niemodlin-miasto-4",
+    "voivodeship": "opolskie",
+    "teryt": "1609074",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Niepołomice - miasto (4)",
+    "slug": "niepolomice-miasto-4",
+    "voivodeship": "małopolskie",
+    "teryt": "1219044",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Nieszawa (1)",
+    "slug": "nieszawa-1",
+    "voivodeship": "kujawsko-pomorskie",
+    "teryt": "0401031",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Nisko - miasto (4)",
+    "slug": "nisko-miasto-4",
+    "voivodeship": "podkarpackie",
+    "teryt": "1812054",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Nowa Dęba - miasto (4)",
+    "slug": "nowa-deba-miasto-4",
+    "voivodeship": "podkarpackie",
+    "teryt": "1820044",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Nowa Ruda (1)",
+    "slug": "nowa-ruda-1",
+    "voivodeship": "dolnośląskie",
+    "teryt": "0208041",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Nowa Sarzyna - miasto (4)",
+    "slug": "nowa-sarzyna-miasto-4",
+    "voivodeship": "podkarpackie",
+    "teryt": "1808054",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Nowa Sól (1)",
+    "slug": "nowa-sol-1",
+    "voivodeship": "lubuskie",
+    "teryt": "0804011",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Nowa Słupia - miasto (4)",
+    "slug": "nowa-slupia-miasto-4",
+    "voivodeship": "świętokrzyskie",
+    "teryt": "2604134",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Nowe - miasto (4)",
+    "slug": "nowe-miasto-4",
+    "voivodeship": "kujawsko-pomorskie",
+    "teryt": "0414064",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Nowe Brzesko - miasto (4)",
+    "slug": "nowe-brzesko-miasto-4",
+    "voivodeship": "małopolskie",
+    "teryt": "1214034",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Nowe Miasteczko - miasto (4)",
+    "slug": "nowe-miasteczko-miasto-4",
+    "voivodeship": "lubuskie",
+    "teryt": "0804064",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Nowe Miasto - miasto (4)",
+    "slug": "nowe-miasto-miasto-4",
+    "voivodeship": "mazowieckie",
+    "teryt": "1420084",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Nowe Miasto Lubawskie (1)",
+    "slug": "nowe-miasto-lubawskie-1",
+    "voivodeship": "warmińsko-mazurskie",
+    "teryt": "2812011",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Nowe Miasto nad Pilicą - miasto (4)",
+    "slug": "nowe-miasto-nad-pilica-miasto-4",
+    "voivodeship": "mazowieckie",
+    "teryt": "1406084",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Nowe Skalmierzyce - miasto (4)",
+    "slug": "nowe-skalmierzyce-miasto-4",
+    "voivodeship": "wielkopolskie",
+    "teryt": "3017024",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Nowe Warpno - miasto (4)",
+    "slug": "nowe-warpno-miasto-4",
+    "voivodeship": "zachodniopomorskie",
+    "teryt": "3211034",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Nowogard - miasto (4)",
+    "slug": "nowogard-miasto-4",
+    "voivodeship": "zachodniopomorskie",
+    "teryt": "3204044",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Nowogrodziec - miasto (4)",
+    "slug": "nowogrodziec-miasto-4",
+    "voivodeship": "dolnośląskie",
+    "teryt": "0201044",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Nowogród - miasto (4)",
+    "slug": "nowogrod-miasto-4",
+    "voivodeship": "podlaskie",
+    "teryt": "2007044",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Nowogród Bobrzański - miasto (4)",
+    "slug": "nowogrod-bobrzanski-miasto-4",
+    "voivodeship": "lubuskie",
+    "teryt": "0809054",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Nowy Dwór Gdański - miasto (4)",
+    "slug": "nowy-dwor-gdanski-miasto-4",
+    "voivodeship": "pomorskie",
+    "teryt": "2210024",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Nowy Dwór Mazowiecki (1)",
+    "slug": "nowy-dwor-mazowiecki-1",
+    "voivodeship": "mazowieckie",
+    "teryt": "1414011",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Nowy Korczyn - miasto (4)",
+    "slug": "nowy-korczyn-miasto-4",
+    "voivodeship": "świętokrzyskie",
+    "teryt": "2601034",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Nowy Staw - miasto (4)",
+    "slug": "nowy-staw-miasto-4",
+    "voivodeship": "pomorskie",
+    "teryt": "2209074",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Nowy Sącz (1)",
+    "slug": "nowy-sacz-1",
+    "voivodeship": "małopolskie",
+    "teryt": "1262011",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Nowy Targ (1)",
+    "slug": "nowy-targ-1",
+    "voivodeship": "małopolskie",
+    "teryt": "1211011",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Nowy Tomyśl - miasto (4)",
+    "slug": "nowy-tomysl-miasto-4",
+    "voivodeship": "wielkopolskie",
+    "teryt": "3015044",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Nowy Wiśnicz - miasto (4)",
+    "slug": "nowy-wisnicz-miasto-4",
+    "voivodeship": "małopolskie",
+    "teryt": "1201064",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Nysa - miasto (4)",
+    "slug": "nysa-miasto-4",
+    "voivodeship": "opolskie",
+    "teryt": "1607054",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Oborniki - miasto (4)",
+    "slug": "oborniki-miasto-4",
+    "voivodeship": "wielkopolskie",
+    "teryt": "3016014",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Oborniki Śląskie - miasto (4)",
+    "slug": "oborniki-slaskie-miasto-4",
+    "voivodeship": "dolnośląskie",
+    "teryt": "0220014",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Obrzycko (1)",
+    "slug": "obrzycko-1",
+    "voivodeship": "wielkopolskie",
+    "teryt": "3024011",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Odolanów - miasto (4)",
+    "slug": "odolanow-miasto-4",
+    "voivodeship": "wielkopolskie",
+    "teryt": "3017034",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Odrzywół - miasto (4)",
+    "slug": "odrzywol-miasto-4",
+    "voivodeship": "mazowieckie",
+    "teryt": "1423044",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Ogrodzieniec - miasto (4)",
+    "slug": "ogrodzieniec-miasto-4",
+    "voivodeship": "śląskie",
+    "teryt": "2416064",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Okonek - miasto (4)",
+    "slug": "okonek-miasto-4",
+    "voivodeship": "wielkopolskie",
+    "teryt": "3031054",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Olecko - miasto (4)",
+    "slug": "olecko-miasto-4",
+    "voivodeship": "warmińsko-mazurskie",
+    "teryt": "2813044",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Olesno - miasto (4)",
+    "slug": "olesno-miasto-4",
+    "voivodeship": "opolskie",
+    "teryt": "1608034",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Oleszyce - miasto (4)",
+    "slug": "oleszyce-miasto-4",
+    "voivodeship": "podkarpackie",
+    "teryt": "1809064",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Oleśnica (1)",
+    "slug": "olesnica-1",
+    "voivodeship": "dolnośląskie",
+    "teryt": "0214011",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Oleśnica - miasto (4)",
+    "slug": "olesnica-miasto-4",
+    "voivodeship": "świętokrzyskie",
+    "teryt": "2612034",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Olkusz - miasto (4)",
+    "slug": "olkusz-miasto-4",
+    "voivodeship": "małopolskie",
+    "teryt": "1212054",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Olsztyn (1)",
+    "slug": "olsztyn-1",
+    "voivodeship": "warmińsko-mazurskie",
+    "teryt": "2862011",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Olsztyn - miasto (4)",
+    "slug": "olsztyn-miasto-4",
+    "voivodeship": "śląskie",
+    "teryt": "2404124",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Olsztynek - miasto (4)",
+    "slug": "olsztynek-miasto-4",
+    "voivodeship": "warmińsko-mazurskie",
+    "teryt": "2814094",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Olszyna - miasto (4)",
+    "slug": "olszyna-miasto-4",
+    "voivodeship": "dolnośląskie",
+    "teryt": "0210054",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Opalenica - miasto (4)",
+    "slug": "opalenica-miasto-4",
+    "voivodeship": "wielkopolskie",
+    "teryt": "3015054",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Opatowiec - miasto (4)",
+    "slug": "opatowiec-miasto-4",
+    "voivodeship": "świętokrzyskie",
+    "teryt": "2603044",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Opatów - miasto (4)",
+    "slug": "opatow-miasto-4",
+    "voivodeship": "świętokrzyskie",
+    "teryt": "2606044",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Opatówek - miasto (4)",
+    "slug": "opatowek-miasto-4",
+    "voivodeship": "wielkopolskie",
+    "teryt": "3007084",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Opoczno - miasto (4)",
+    "slug": "opoczno-miasto-4",
+    "voivodeship": "łódzkie",
+    "teryt": "1007044",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Opole (1)",
+    "slug": "opole-1",
+    "voivodeship": "opolskie",
+    "teryt": "1661011",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Opole Lubelskie - miasto (4)",
+    "slug": "opole-lubelskie-miasto-4",
+    "voivodeship": "lubelskie",
+    "teryt": "0612054",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Orneta - miasto (4)",
+    "slug": "orneta-miasto-4",
+    "voivodeship": "warmińsko-mazurskie",
+    "teryt": "2809054",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Orzesze (1)",
+    "slug": "orzesze-1",
+    "voivodeship": "śląskie",
+    "teryt": "2408031",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Orzysz - miasto (4)",
+    "slug": "orzysz-miasto-4",
+    "voivodeship": "warmińsko-mazurskie",
+    "teryt": "2816024",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Osieck - miasto (4)",
+    "slug": "osieck-miasto-4",
+    "voivodeship": "mazowieckie",
+    "teryt": "1417064",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Osieczna - miasto (4)",
+    "slug": "osieczna-miasto-4",
+    "voivodeship": "wielkopolskie",
+    "teryt": "3013034",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Osiek - miasto (4)",
+    "slug": "osiek-miasto-4",
+    "voivodeship": "świętokrzyskie",
+    "teryt": "2612044",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Osjaków - miasto (4)",
+    "slug": "osjakow-miasto-4",
+    "voivodeship": "łódzkie",
+    "teryt": "1017054",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Ostroróg - miasto (4)",
+    "slug": "ostrorog-miasto-4",
+    "voivodeship": "wielkopolskie",
+    "teryt": "3024054",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Ostrowiec Świętokrzyski (1)",
+    "slug": "ostrowiec-swietokrzyski-1",
+    "voivodeship": "świętokrzyskie",
+    "teryt": "2607011",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Ostrołęka (1)",
+    "slug": "ostroleka-1",
+    "voivodeship": "mazowieckie",
+    "teryt": "1461011",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Ostrzeszów - miasto (4)",
+    "slug": "ostrzeszow-miasto-4",
+    "voivodeship": "wielkopolskie",
+    "teryt": "3018074",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Ostróda (1)",
+    "slug": "ostroda-1",
+    "voivodeship": "warmińsko-mazurskie",
+    "teryt": "2815011",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Ostrów Lubelski - miasto (4)",
+    "slug": "ostrow-lubelski-miasto-4",
+    "voivodeship": "lubelskie",
+    "teryt": "0608104",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Ostrów Mazowiecka (1)",
+    "slug": "ostrow-mazowiecka-1",
+    "voivodeship": "mazowieckie",
+    "teryt": "1416011",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Ostrów Wielkopolski (1)",
+    "slug": "ostrow-wielkopolski-1",
+    "voivodeship": "wielkopolskie",
+    "teryt": "3017011",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Otmuchów - miasto (4)",
+    "slug": "otmuchow-miasto-4",
+    "voivodeship": "opolskie",
+    "teryt": "1607064",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Otwock (1)",
+    "slug": "otwock-1",
+    "voivodeship": "mazowieckie",
+    "teryt": "1417021",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Otyń - miasto (4)",
+    "slug": "otyn-miasto-4",
+    "voivodeship": "lubuskie",
+    "teryt": "0804074",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Ozimek - miasto (4)",
+    "slug": "ozimek-miasto-4",
+    "voivodeship": "opolskie",
+    "teryt": "1609084",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Ozorków (1)",
+    "slug": "ozorkow-1",
+    "voivodeship": "łódzkie",
+    "teryt": "1020021",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Oława (1)",
+    "slug": "olawa-1",
+    "voivodeship": "dolnośląskie",
+    "teryt": "0215011",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Ośno Lubuskie - miasto (4)",
+    "slug": "osno-lubuskie-miasto-4",
+    "voivodeship": "lubuskie",
+    "teryt": "0805034",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Oświęcim (1)",
+    "slug": "oswiecim-1",
+    "voivodeship": "małopolskie",
+    "teryt": "1213011",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Ożarów - miasto (4)",
+    "slug": "ozarow-miasto-4",
+    "voivodeship": "świętokrzyskie",
+    "teryt": "2606054",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Ożarów Mazowiecki - miasto (4)",
+    "slug": "ozarow-mazowiecki-miasto-4",
+    "voivodeship": "mazowieckie",
+    "teryt": "1432064",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Pabianice (1)",
+    "slug": "pabianice-1",
+    "voivodeship": "łódzkie",
+    "teryt": "1008021",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Pacanów - miasto (4)",
+    "slug": "pacanow-miasto-4",
+    "voivodeship": "świętokrzyskie",
+    "teryt": "2601044",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Paczków - miasto (4)",
+    "slug": "paczkow-miasto-4",
+    "voivodeship": "opolskie",
+    "teryt": "1607074",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Pajęczno - miasto (4)",
+    "slug": "pajeczno-miasto-4",
+    "voivodeship": "łódzkie",
+    "teryt": "1009044",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Pakość - miasto (4)",
+    "slug": "pakosc-miasto-4",
+    "voivodeship": "kujawsko-pomorskie",
+    "teryt": "0407074",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Parczew - miasto (4)",
+    "slug": "parczew-miasto-4",
+    "voivodeship": "lubelskie",
+    "teryt": "0613044",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Parzęczew - miasto (4)",
+    "slug": "parzeczew-miasto-4",
+    "voivodeship": "łódzkie",
+    "teryt": "1020074",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Pasym - miasto (4)",
+    "slug": "pasym-miasto-4",
+    "voivodeship": "warmińsko-mazurskie",
+    "teryt": "2817044",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Pasłęk - miasto (4)",
+    "slug": "paslek-miasto-4",
+    "voivodeship": "warmińsko-mazurskie",
+    "teryt": "2804074",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Pelplin - miasto (4)",
+    "slug": "pelplin-miasto-4",
+    "voivodeship": "pomorskie",
+    "teryt": "2214044",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Pełczyce - miasto (4)",
+    "slug": "pelczyce-miasto-4",
+    "voivodeship": "zachodniopomorskie",
+    "teryt": "3202054",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Piaseczno - miasto (4)",
+    "slug": "piaseczno-miasto-4",
+    "voivodeship": "mazowieckie",
+    "teryt": "1418044",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Piaski - miasto (4)",
+    "slug": "piaski-miasto-4",
+    "voivodeship": "lubelskie",
+    "teryt": "0617034",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Piastów (1)",
+    "slug": "piastow-1",
+    "voivodeship": "mazowieckie",
+    "teryt": "1421011",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Piechowice (1)",
+    "slug": "piechowice-1",
+    "voivodeship": "dolnośląskie",
+    "teryt": "0206031",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Piekary Śląskie (1)",
+    "slug": "piekary-slaskie-1",
+    "voivodeship": "śląskie",
+    "teryt": "2471011",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Piekoszów - miasto (4)",
+    "slug": "piekoszow-miasto-4",
+    "voivodeship": "świętokrzyskie",
+    "teryt": "2604144",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Pieniężno - miasto (4)",
+    "slug": "pieniezno-miasto-4",
+    "voivodeship": "warmińsko-mazurskie",
+    "teryt": "2802054",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Pierzchnica - miasto (4)",
+    "slug": "pierzchnica-miasto-4",
+    "voivodeship": "świętokrzyskie",
+    "teryt": "2604154",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Pieszyce - miasto (4)",
+    "slug": "pieszyce-miasto-4",
+    "voivodeship": "dolnośląskie",
+    "teryt": "0202034",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Pieńsk - miasto (4)",
+    "slug": "piensk-miasto-4",
+    "voivodeship": "dolnośląskie",
+    "teryt": "0225044",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Pilawa - miasto (4)",
+    "slug": "pilawa-miasto-4",
+    "voivodeship": "mazowieckie",
+    "teryt": "1403104",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Pilica - miasto (4)",
+    "slug": "pilica-miasto-4",
+    "voivodeship": "śląskie",
+    "teryt": "2416074",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Pilzno - miasto (4)",
+    "slug": "pilzno-miasto-4",
+    "voivodeship": "podkarpackie",
+    "teryt": "1803064",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Pionki (1)",
+    "slug": "pionki-1",
+    "voivodeship": "mazowieckie",
+    "teryt": "1425011",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Piotrków Kujawski - miasto (4)",
+    "slug": "piotrkow-kujawski-miasto-4",
+    "voivodeship": "kujawsko-pomorskie",
+    "teryt": "0411054",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Piotrków Trybunalski (1)",
+    "slug": "piotrkow-trybunalski-1",
+    "voivodeship": "łódzkie",
+    "teryt": "1062011",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Pisz - miasto (4)",
+    "slug": "pisz-miasto-4",
+    "voivodeship": "warmińsko-mazurskie",
+    "teryt": "2816034",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Piszczac - miasto (4)",
+    "slug": "piszczac-miasto-4",
+    "voivodeship": "lubelskie",
+    "teryt": "0601114",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Piwniczna-Zdrój - miasto (4)",
+    "slug": "piwniczna-zdroj-miasto-4",
+    "voivodeship": "małopolskie",
+    "teryt": "1210134",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Piątek - miasto (4)",
+    "slug": "piatek-miasto-4",
+    "voivodeship": "łódzkie",
+    "teryt": "1004064",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Piła (1)",
+    "slug": "pila-1",
+    "voivodeship": "wielkopolskie",
+    "teryt": "3019011",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Piława Górna (1)",
+    "slug": "pilawa-gorna-1",
+    "voivodeship": "dolnośląskie",
+    "teryt": "0202041",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Pińczów - miasto (4)",
+    "slug": "pinczow-miasto-4",
+    "voivodeship": "świętokrzyskie",
+    "teryt": "2608044",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Pleszew - miasto (4)",
+    "slug": "pleszew-miasto-4",
+    "voivodeship": "wielkopolskie",
+    "teryt": "3020064",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Pniewy - miasto (4)",
+    "slug": "pniewy-miasto-4",
+    "voivodeship": "wielkopolskie",
+    "teryt": "3024064",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Pobiedziska - miasto (4)",
+    "slug": "pobiedziska-miasto-4",
+    "voivodeship": "wielkopolskie",
+    "teryt": "3021124",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Poddębice - miasto (4)",
+    "slug": "poddebice-miasto-4",
+    "voivodeship": "łódzkie",
+    "teryt": "1011034",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Podkowa Leśna (1)",
+    "slug": "podkowa-lesna-1",
+    "voivodeship": "mazowieckie",
+    "teryt": "1405021",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Pogorzela - miasto (4)",
+    "slug": "pogorzela-miasto-4",
+    "voivodeship": "wielkopolskie",
+    "teryt": "3004064",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Polanica-Zdrój (1)",
+    "slug": "polanica-zdroj-1",
+    "voivodeship": "dolnośląskie",
+    "teryt": "0208051",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Polanów - miasto (4)",
+    "slug": "polanow-miasto-4",
+    "voivodeship": "zachodniopomorskie",
+    "teryt": "3209064",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Police - miasto (4)",
+    "slug": "police-miasto-4",
+    "voivodeship": "zachodniopomorskie",
+    "teryt": "3211044",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Polkowice - miasto (4)",
+    "slug": "polkowice-miasto-4",
+    "voivodeship": "dolnośląskie",
+    "teryt": "0216044",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Poniatowa - miasto (4)",
+    "slug": "poniatowa-miasto-4",
+    "voivodeship": "lubelskie",
+    "teryt": "0612064",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Poniec - miasto (4)",
+    "slug": "poniec-miasto-4",
+    "voivodeship": "wielkopolskie",
+    "teryt": "3004074",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Poręba (1)",
+    "slug": "poreba-1",
+    "voivodeship": "śląskie",
+    "teryt": "2416011",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Poznań (1)",
+    "slug": "poznan-1",
+    "voivodeship": "wielkopolskie",
+    "teryt": "3064011",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Połaniec - miasto (4)",
+    "slug": "polaniec-miasto-4",
+    "voivodeship": "świętokrzyskie",
+    "teryt": "2612054",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Połczyn-Zdrój - miasto (4)",
+    "slug": "polczyn-zdroj-miasto-4",
+    "voivodeship": "zachodniopomorskie",
+    "teryt": "3216034",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Prabuty - miasto (4)",
+    "slug": "prabuty-miasto-4",
+    "voivodeship": "pomorskie",
+    "teryt": "2207044",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Praszka - miasto (4)",
+    "slug": "praszka-miasto-4",
+    "voivodeship": "opolskie",
+    "teryt": "1608044",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Prochowice - miasto (4)",
+    "slug": "prochowice-miasto-4",
+    "voivodeship": "dolnośląskie",
+    "teryt": "0209074",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Proszowice - miasto (4)",
+    "slug": "proszowice-miasto-4",
+    "voivodeship": "małopolskie",
+    "teryt": "1214054",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Pruchnik - miasto (4)",
+    "slug": "pruchnik-miasto-4",
+    "voivodeship": "podkarpackie",
+    "teryt": "1804074",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Prudnik - miasto (4)",
+    "slug": "prudnik-miasto-4",
+    "voivodeship": "opolskie",
+    "teryt": "1610044",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Prusice - miasto (4)",
+    "slug": "prusice-miasto-4",
+    "voivodeship": "dolnośląskie",
+    "teryt": "0220024",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Pruszcz - miasto (4)",
+    "slug": "pruszcz-miasto-4",
+    "voivodeship": "kujawsko-pomorskie",
+    "teryt": "0414084",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Pruszcz Gdański (1)",
+    "slug": "pruszcz-gdanski-1",
+    "voivodeship": "pomorskie",
+    "teryt": "2204011",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Pruszków (1)",
+    "slug": "pruszkow-1",
+    "voivodeship": "mazowieckie",
+    "teryt": "1421021",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Przasnysz (1)",
+    "slug": "przasnysz-1",
+    "voivodeship": "mazowieckie",
+    "teryt": "1422011",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Przecław - miasto (4)",
+    "slug": "przeclaw-miasto-4",
+    "voivodeship": "podkarpackie",
+    "teryt": "1811074",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Przedbórz - miasto (4)",
+    "slug": "przedborz-miasto-4",
+    "voivodeship": "łódzkie",
+    "teryt": "1012114",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Przedecz - miasto (4)",
+    "slug": "przedecz-miasto-4",
+    "voivodeship": "wielkopolskie",
+    "teryt": "3009114",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Przemków - miasto (4)",
+    "slug": "przemkow-miasto-4",
+    "voivodeship": "dolnośląskie",
+    "teryt": "0216054",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Przemyśl (1)",
+    "slug": "przemysl-1",
+    "voivodeship": "podkarpackie",
+    "teryt": "1862011",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Przeworsk (1)",
+    "slug": "przeworsk-1",
+    "voivodeship": "podkarpackie",
+    "teryt": "1814011",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Przyrów - miasto (4)",
+    "slug": "przyrow-miasto-4",
+    "voivodeship": "śląskie",
+    "teryt": "2404144",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Przysucha - miasto (4)",
+    "slug": "przysucha-miasto-4",
+    "voivodeship": "mazowieckie",
+    "teryt": "1423064",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Przytyk - miasto (4)",
+    "slug": "przytyk-miasto-4",
+    "voivodeship": "mazowieckie",
+    "teryt": "1425094",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Prószków - miasto (4)",
+    "slug": "proszkow-miasto-4",
+    "voivodeship": "opolskie",
+    "teryt": "1609104",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Pszczyna - miasto (4)",
+    "slug": "pszczyna-miasto-4",
+    "voivodeship": "śląskie",
+    "teryt": "2410054",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Pszów (1)",
+    "slug": "pszow-1",
+    "voivodeship": "śląskie",
+    "teryt": "2415011",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Puck (1)",
+    "slug": "puck-1",
+    "voivodeship": "pomorskie",
+    "teryt": "2211031",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Puszczykowo (1)",
+    "slug": "puszczykowo-1",
+    "voivodeship": "wielkopolskie",
+    "teryt": "3021021",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Puławy (1)",
+    "slug": "pulawy-1",
+    "voivodeship": "lubelskie",
+    "teryt": "0614011",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Pułtusk - miasto (4)",
+    "slug": "pultusk-miasto-4",
+    "voivodeship": "mazowieckie",
+    "teryt": "1424044",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Pyrzyce - miasto (4)",
+    "slug": "pyrzyce-miasto-4",
+    "voivodeship": "zachodniopomorskie",
+    "teryt": "3212054",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Pyskowice (1)",
+    "slug": "pyskowice-1",
+    "voivodeship": "śląskie",
+    "teryt": "2405021",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Pyzdry - miasto (4)",
+    "slug": "pyzdry-miasto-4",
+    "voivodeship": "wielkopolskie",
+    "teryt": "3030044",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Płock (1)",
+    "slug": "plock-1",
+    "voivodeship": "mazowieckie",
+    "teryt": "1462011",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Płoty - miasto (4)",
+    "slug": "ploty-miasto-4",
+    "voivodeship": "zachodniopomorskie",
+    "teryt": "3205044",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Płońsk (1)",
+    "slug": "plonsk-1",
+    "voivodeship": "mazowieckie",
+    "teryt": "1420011",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Rabka-Zdrój - miasto (4)",
+    "slug": "rabka-zdroj-miasto-4",
+    "voivodeship": "małopolskie",
+    "teryt": "1211124",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Racibórz (1)",
+    "slug": "raciborz-1",
+    "voivodeship": "śląskie",
+    "teryt": "2411011",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Raciąż (1)",
+    "slug": "raciaz-1",
+    "voivodeship": "mazowieckie",
+    "teryt": "1420021",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Radków - miasto (4)",
+    "slug": "radkow-miasto-4",
+    "voivodeship": "dolnośląskie",
+    "teryt": "0208124",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Radlin (1)",
+    "slug": "radlin-1",
+    "voivodeship": "śląskie",
+    "teryt": "2415021",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Radom (1)",
+    "slug": "radom-1",
+    "voivodeship": "mazowieckie",
+    "teryt": "1463011",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Radomsko (1)",
+    "slug": "radomsko-1",
+    "voivodeship": "łódzkie",
+    "teryt": "1012011",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Radomyśl Wielki - miasto (4)",
+    "slug": "radomysl-wielki-miasto-4",
+    "voivodeship": "podkarpackie",
+    "teryt": "1811084",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Radoszyce - miasto (4)",
+    "slug": "radoszyce-miasto-4",
+    "voivodeship": "świętokrzyskie",
+    "teryt": "2605044",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Radymno (1)",
+    "slug": "radymno-1",
+    "voivodeship": "podkarpackie",
+    "teryt": "1804021",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Radziejów (1)",
+    "slug": "radziejow-1",
+    "voivodeship": "kujawsko-pomorskie",
+    "teryt": "0411011",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Radzionków (1)",
+    "slug": "radzionkow-1",
+    "voivodeship": "śląskie",
+    "teryt": "2413031",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Radzymin - miasto (4)",
+    "slug": "radzymin-miasto-4",
+    "voivodeship": "mazowieckie",
+    "teryt": "1434094",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Radzyń Chełmiński - miasto (4)",
+    "slug": "radzyn-chelminski-miasto-4",
+    "voivodeship": "kujawsko-pomorskie",
+    "teryt": "0406044",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Radzyń Podlaski (1)",
+    "slug": "radzyn-podlaski-1",
+    "voivodeship": "lubelskie",
+    "teryt": "0615011",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Radłów - miasto (4)",
+    "slug": "radlow-miasto-4",
+    "voivodeship": "małopolskie",
+    "teryt": "1216054",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Rajgród - miasto (4)",
+    "slug": "rajgrod-miasto-4",
+    "voivodeship": "podlaskie",
+    "teryt": "2004044",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Rakoniewice - miasto (4)",
+    "slug": "rakoniewice-miasto-4",
+    "voivodeship": "wielkopolskie",
+    "teryt": "3005044",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Raszków - miasto (4)",
+    "slug": "raszkow-miasto-4",
+    "voivodeship": "wielkopolskie",
+    "teryt": "3017064",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Rawa Mazowiecka (1)",
+    "slug": "rawa-mazowiecka-1",
+    "voivodeship": "łódzkie",
+    "teryt": "1013011",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Rawicz - miasto (4)",
+    "slug": "rawicz-miasto-4",
+    "voivodeship": "wielkopolskie",
+    "teryt": "3022054",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Recz - miasto (4)",
+    "slug": "recz-miasto-4",
+    "voivodeship": "zachodniopomorskie",
+    "teryt": "3202064",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Reda (1)",
+    "slug": "reda-1",
+    "voivodeship": "pomorskie",
+    "teryt": "2215011",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Rejowiec - miasto (4)",
+    "slug": "rejowiec-miasto-4",
+    "voivodeship": "lubelskie",
+    "teryt": "0603154",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Rejowiec Fabryczny (1)",
+    "slug": "rejowiec-fabryczny-1",
+    "voivodeship": "lubelskie",
+    "teryt": "0603011",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Resko - miasto (4)",
+    "slug": "resko-miasto-4",
+    "voivodeship": "zachodniopomorskie",
+    "teryt": "3218044",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Reszel - miasto (4)",
+    "slug": "reszel-miasto-4",
+    "voivodeship": "warmińsko-mazurskie",
+    "teryt": "2808054",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Rogoźno - miasto (4)",
+    "slug": "rogozno-miasto-4",
+    "voivodeship": "wielkopolskie",
+    "teryt": "3016024",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Ropczyce - miasto (4)",
+    "slug": "ropczyce-miasto-4",
+    "voivodeship": "podkarpackie",
+    "teryt": "1815034",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Rozprza - miasto (4)",
+    "slug": "rozprza-miasto-4",
+    "voivodeship": "łódzkie",
+    "teryt": "1010084",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Ruciane-Nida - miasto (4)",
+    "slug": "ruciane-nida-miasto-4",
+    "voivodeship": "warmińsko-mazurskie",
+    "teryt": "2816044",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Ruda Śląska (1)",
+    "slug": "ruda-slaska-1",
+    "voivodeship": "śląskie",
+    "teryt": "2472011",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Rudnik nad Sanem - miasto (4)",
+    "slug": "rudnik-nad-sanem-miasto-4",
+    "voivodeship": "podkarpackie",
+    "teryt": "1812064",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Rumia (1)",
+    "slug": "rumia-1",
+    "voivodeship": "pomorskie",
+    "teryt": "2215021",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Rybnik (1)",
+    "slug": "rybnik-1",
+    "voivodeship": "śląskie",
+    "teryt": "2473011",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Rychtal - miasto (4)",
+    "slug": "rychtal-miasto-4",
+    "voivodeship": "wielkopolskie",
+    "teryt": "3008064",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Rychwał - miasto (4)",
+    "slug": "rychwal-miasto-4",
+    "voivodeship": "wielkopolskie",
+    "teryt": "3010074",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Rydułtowy (1)",
+    "slug": "rydultowy-1",
+    "voivodeship": "śląskie",
+    "teryt": "2415031",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Rydzyna - miasto (4)",
+    "slug": "rydzyna-miasto-4",
+    "voivodeship": "wielkopolskie",
+    "teryt": "3013044",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Ryglice - miasto (4)",
+    "slug": "ryglice-miasto-4",
+    "voivodeship": "małopolskie",
+    "teryt": "1216064",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Ryki - miasto (4)",
+    "slug": "ryki-miasto-4",
+    "voivodeship": "lubelskie",
+    "teryt": "0616044",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Rymanów - miasto (4)",
+    "slug": "rymanow-miasto-4",
+    "voivodeship": "podkarpackie",
+    "teryt": "1807084",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Ryn - miasto (4)",
+    "slug": "ryn-miasto-4",
+    "voivodeship": "warmińsko-mazurskie",
+    "teryt": "2806084",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Rypin (1)",
+    "slug": "rypin-1",
+    "voivodeship": "kujawsko-pomorskie",
+    "teryt": "0412011",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Rzepin - miasto (4)",
+    "slug": "rzepin-miasto-4",
+    "voivodeship": "lubuskie",
+    "teryt": "0805044",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Rzeszów (1)",
+    "slug": "rzeszow-1",
+    "voivodeship": "podkarpackie",
+    "teryt": "1863011",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Rzgów - miasto (4)",
+    "slug": "rzgow-miasto-4",
+    "voivodeship": "łódzkie",
+    "teryt": "1006104",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Różan - miasto (4)",
+    "slug": "rozan-miasto-4",
+    "voivodeship": "mazowieckie",
+    "teryt": "1411074",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Sandomierz (1)",
+    "slug": "sandomierz-1",
+    "voivodeship": "świętokrzyskie",
+    "teryt": "2609011",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Sanniki - miasto (4)",
+    "slug": "sanniki-miasto-4",
+    "voivodeship": "mazowieckie",
+    "teryt": "1404044",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Sanok (1)",
+    "slug": "sanok-1",
+    "voivodeship": "podkarpackie",
+    "teryt": "1817011",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Sejny (1)",
+    "slug": "sejny-1",
+    "voivodeship": "podlaskie",
+    "teryt": "2009011",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Serock - miasto (4)",
+    "slug": "serock-miasto-4",
+    "voivodeship": "mazowieckie",
+    "teryt": "1408044",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Sianów - miasto (4)",
+    "slug": "sianow-miasto-4",
+    "voivodeship": "zachodniopomorskie",
+    "teryt": "3209074",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Siechnice - miasto (4)",
+    "slug": "siechnice-miasto-4",
+    "voivodeship": "dolnośląskie",
+    "teryt": "0223084",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Siedlce (1)",
+    "slug": "siedlce-1",
+    "voivodeship": "mazowieckie",
+    "teryt": "1464011",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Siedliszcze - miasto (4)",
+    "slug": "siedliszcze-miasto-4",
+    "voivodeship": "lubelskie",
+    "teryt": "0603114",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Siemianowice Śląskie (1)",
+    "slug": "siemianowice-slaskie-1",
+    "voivodeship": "śląskie",
+    "teryt": "2474011",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Siemiatycze (1)",
+    "slug": "siemiatycze-1",
+    "voivodeship": "podlaskie",
+    "teryt": "2010011",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Sieniawa - miasto (4)",
+    "slug": "sieniawa-miasto-4",
+    "voivodeship": "podkarpackie",
+    "teryt": "1814074",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Siennica - miasto (4)",
+    "slug": "siennica-miasto-4",
+    "voivodeship": "mazowieckie",
+    "teryt": "1412134",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Sienno - miasto (4)",
+    "slug": "sienno-miasto-4",
+    "voivodeship": "mazowieckie",
+    "teryt": "1409054",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Sieradz (1)",
+    "slug": "sieradz-1",
+    "voivodeship": "łódzkie",
+    "teryt": "1014011",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Sieraków - miasto (4)",
+    "slug": "sierakow-miasto-4",
+    "voivodeship": "wielkopolskie",
+    "teryt": "3014044",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Sierpc (1)",
+    "slug": "sierpc-1",
+    "voivodeship": "mazowieckie",
+    "teryt": "1427011",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Siewierz - miasto (4)",
+    "slug": "siewierz-miasto-4",
+    "voivodeship": "śląskie",
+    "teryt": "2401074",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Skalbmierz - miasto (4)",
+    "slug": "skalbmierz-miasto-4",
+    "voivodeship": "świętokrzyskie",
+    "teryt": "2603054",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Skarszewy - miasto (4)",
+    "slug": "skarszewy-miasto-4",
+    "voivodeship": "pomorskie",
+    "teryt": "2213094",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Skaryszew - miasto (4)",
+    "slug": "skaryszew-miasto-4",
+    "voivodeship": "mazowieckie",
+    "teryt": "1425104",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Skarżysko-Kamienna (1)",
+    "slug": "skarzysko-kamienna-1",
+    "voivodeship": "świętokrzyskie",
+    "teryt": "2610011",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Skawina - miasto (4)",
+    "slug": "skawina-miasto-4",
+    "voivodeship": "małopolskie",
+    "teryt": "1206114",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Skała - miasto (4)",
+    "slug": "skala-miasto-4",
+    "voivodeship": "małopolskie",
+    "teryt": "1206104",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Skierniewice (1)",
+    "slug": "skierniewice-1",
+    "voivodeship": "łódzkie",
+    "teryt": "1063011",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Skoczów - miasto (4)",
+    "slug": "skoczow-miasto-4",
+    "voivodeship": "śląskie",
+    "teryt": "2403104",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Skoki - miasto (4)",
+    "slug": "skoki-miasto-4",
+    "voivodeship": "wielkopolskie",
+    "teryt": "3028054",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Skwierzyna - miasto (4)",
+    "slug": "skwierzyna-miasto-4",
+    "voivodeship": "lubuskie",
+    "teryt": "0803054",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Skórcz (1)",
+    "slug": "skorcz-1",
+    "voivodeship": "pomorskie",
+    "teryt": "2213021",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Skępe - miasto (4)",
+    "slug": "skepe-miasto-4",
+    "voivodeship": "kujawsko-pomorskie",
+    "teryt": "0408074",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Sobków - miasto (4)",
+    "slug": "sobkow-miasto-4",
+    "voivodeship": "świętokrzyskie",
+    "teryt": "2602084",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Sobótka - miasto (4)",
+    "slug": "sobotka-miasto-4",
+    "voivodeship": "dolnośląskie",
+    "teryt": "0223074",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Sochaczew (1)",
+    "slug": "sochaczew-1",
+    "voivodeship": "mazowieckie",
+    "teryt": "1428011",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Sochocin - miasto (4)",
+    "slug": "sochocin-miasto-4",
+    "voivodeship": "mazowieckie",
+    "teryt": "1420114",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Sokołów Małopolski - miasto (4)",
+    "slug": "sokolow-malopolski-miasto-4",
+    "voivodeship": "podkarpackie",
+    "teryt": "1816114",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Sokołów Podlaski (1)",
+    "slug": "sokolow-podlaski-1",
+    "voivodeship": "mazowieckie",
+    "teryt": "1429011",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Sokółka - miasto (4)",
+    "slug": "sokolka-miasto-4",
+    "voivodeship": "podlaskie",
+    "teryt": "2011084",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Solec Kujawski - miasto (4)",
+    "slug": "solec-kujawski-miasto-4",
+    "voivodeship": "kujawsko-pomorskie",
+    "teryt": "0403084",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Solec nad Wisłą - miasto (4)",
+    "slug": "solec-nad-wisla-miasto-4",
+    "voivodeship": "mazowieckie",
+    "teryt": "1409064",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Sompolno - miasto (4)",
+    "slug": "sompolno-miasto-4",
+    "voivodeship": "wielkopolskie",
+    "teryt": "3010104",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Sopot (1)",
+    "slug": "sopot-1",
+    "voivodeship": "pomorskie",
+    "teryt": "2264011",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Sosnowiec (1)",
+    "slug": "sosnowiec-1",
+    "voivodeship": "śląskie",
+    "teryt": "2475011",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Sośnicowice - miasto (4)",
+    "slug": "sosnicowice-miasto-4",
+    "voivodeship": "śląskie",
+    "teryt": "2405064",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Stalowa Wola (1)",
+    "slug": "stalowa-wola-1",
+    "voivodeship": "podkarpackie",
+    "teryt": "1818011",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Stanisławów - miasto (4)",
+    "slug": "stanislawow-miasto-4",
+    "voivodeship": "mazowieckie",
+    "teryt": "1412144",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Starachowice (1)",
+    "slug": "starachowice-1",
+    "voivodeship": "świętokrzyskie",
+    "teryt": "2611011",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Stargard (1)",
+    "slug": "stargard-1",
+    "voivodeship": "zachodniopomorskie",
+    "teryt": "3214011",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Starogard Gdański (1)",
+    "slug": "starogard-gdanski-1",
+    "voivodeship": "pomorskie",
+    "teryt": "2213031",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Staroźreby - miasto (4)",
+    "slug": "starozreby-miasto-4",
+    "voivodeship": "mazowieckie",
+    "teryt": "1419144",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Stary Sącz - miasto (4)",
+    "slug": "stary-sacz-miasto-4",
+    "voivodeship": "małopolskie",
+    "teryt": "1210164",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Staszów - miasto (4)",
+    "slug": "staszow-miasto-4",
+    "voivodeship": "świętokrzyskie",
+    "teryt": "2612074",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Stawiski - miasto (4)",
+    "slug": "stawiski-miasto-4",
+    "voivodeship": "podlaskie",
+    "teryt": "2006054",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Stawiszyn - miasto (4)",
+    "slug": "stawiszyn-miasto-4",
+    "voivodeship": "wielkopolskie",
+    "teryt": "3007094",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Stepnica - miasto (4)",
+    "slug": "stepnica-miasto-4",
+    "voivodeship": "zachodniopomorskie",
+    "teryt": "3204074",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Stoczek Łukowski (1)",
+    "slug": "stoczek-lukowski-1",
+    "voivodeship": "lubelskie",
+    "teryt": "0611021",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Stopnica - miasto (4)",
+    "slug": "stopnica-miasto-4",
+    "voivodeship": "świętokrzyskie",
+    "teryt": "2601064",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Stronie Śląskie - miasto (4)",
+    "slug": "stronie-slaskie-miasto-4",
+    "voivodeship": "dolnośląskie",
+    "teryt": "0208134",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Strumień - miasto (4)",
+    "slug": "strumien-miasto-4",
+    "voivodeship": "śląskie",
+    "teryt": "2403114",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Stryków - miasto (4)",
+    "slug": "strykow-miasto-4",
+    "voivodeship": "łódzkie",
+    "teryt": "1020084",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Strzegom - miasto (4)",
+    "slug": "strzegom-miasto-4",
+    "voivodeship": "dolnośląskie",
+    "teryt": "0219064",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Strzelce Krajeńskie - miasto (4)",
+    "slug": "strzelce-krajenskie-miasto-4",
+    "voivodeship": "lubuskie",
+    "teryt": "0806044",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Strzelce Opolskie - miasto (4)",
+    "slug": "strzelce-opolskie-miasto-4",
+    "voivodeship": "opolskie",
+    "teryt": "1611054",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Strzeleczki - miasto (4)",
+    "slug": "strzeleczki-miasto-4",
+    "voivodeship": "opolskie",
+    "teryt": "1605034",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Strzelin - miasto (4)",
+    "slug": "strzelin-miasto-4",
+    "voivodeship": "dolnośląskie",
+    "teryt": "0217044",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Strzelno - miasto (4)",
+    "slug": "strzelno-miasto-4",
+    "voivodeship": "kujawsko-pomorskie",
+    "teryt": "0409044",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Strzyżów - miasto (4)",
+    "slug": "strzyzow-miasto-4",
+    "voivodeship": "podkarpackie",
+    "teryt": "1819044",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Stąporków - miasto (4)",
+    "slug": "staporkow-miasto-4",
+    "voivodeship": "świętokrzyskie",
+    "teryt": "2605084",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Stęszew - miasto (4)",
+    "slug": "steszew-miasto-4",
+    "voivodeship": "wielkopolskie",
+    "teryt": "3021144",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Sucha Beskidzka (1)",
+    "slug": "sucha-beskidzka-1",
+    "voivodeship": "małopolskie",
+    "teryt": "1215021",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Suchań - miasto (4)",
+    "slug": "suchan-miasto-4",
+    "voivodeship": "zachodniopomorskie",
+    "teryt": "3214114",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Suchedniów - miasto (4)",
+    "slug": "suchedniow-miasto-4",
+    "voivodeship": "świętokrzyskie",
+    "teryt": "2610054",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Suchowola - miasto (4)",
+    "slug": "suchowola-miasto-4",
+    "voivodeship": "podlaskie",
+    "teryt": "2011094",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Sulechów - miasto (4)",
+    "slug": "sulechow-miasto-4",
+    "voivodeship": "lubuskie",
+    "teryt": "0809064",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Sulejów - miasto (4)",
+    "slug": "sulejow-miasto-4",
+    "voivodeship": "łódzkie",
+    "teryt": "1010094",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Sulejówek (1)",
+    "slug": "sulejowek-1",
+    "voivodeship": "mazowieckie",
+    "teryt": "1412151",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Sulmierzyce (1)",
+    "slug": "sulmierzyce-1",
+    "voivodeship": "wielkopolskie",
+    "teryt": "3012011",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Sulęcin - miasto (4)",
+    "slug": "sulecin-miasto-4",
+    "voivodeship": "lubuskie",
+    "teryt": "0807044",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Supraśl - miasto (4)",
+    "slug": "suprasl-miasto-4",
+    "voivodeship": "podlaskie",
+    "teryt": "2002094",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Suraż - miasto (4)",
+    "slug": "suraz-miasto-4",
+    "voivodeship": "podlaskie",
+    "teryt": "2002104",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Susz - miasto (4)",
+    "slug": "susz-miasto-4",
+    "voivodeship": "warmińsko-mazurskie",
+    "teryt": "2807064",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Suwałki (1)",
+    "slug": "suwalki-1",
+    "voivodeship": "podlaskie",
+    "teryt": "2063011",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Sułkowice - miasto (4)",
+    "slug": "sulkowice-miasto-4",
+    "voivodeship": "małopolskie",
+    "teryt": "1209074",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Swarzędz - miasto (4)",
+    "slug": "swarzedz-miasto-4",
+    "voivodeship": "wielkopolskie",
+    "teryt": "3021164",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Syców - miasto (4)",
+    "slug": "sycow-miasto-4",
+    "voivodeship": "dolnośląskie",
+    "teryt": "0214074",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Szadek - miasto (4)",
+    "slug": "szadek-miasto-4",
+    "voivodeship": "łódzkie",
+    "teryt": "1019024",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Szamocin - miasto (4)",
+    "slug": "szamocin-miasto-4",
+    "voivodeship": "wielkopolskie",
+    "teryt": "3001054",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Szamotuły - miasto (4)",
+    "slug": "szamotuly-miasto-4",
+    "voivodeship": "wielkopolskie",
+    "teryt": "3024074",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Szczawnica - miasto (4)",
+    "slug": "szczawnica-miasto-4",
+    "voivodeship": "małopolskie",
+    "teryt": "1211024",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Szczawno-Zdrój (1)",
+    "slug": "szczawno-zdroj-1",
+    "voivodeship": "dolnośląskie",
+    "teryt": "0221031",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Szczebrzeszyn - miasto (4)",
+    "slug": "szczebrzeszyn-miasto-4",
+    "voivodeship": "lubelskie",
+    "teryt": "0620134",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Szczecin (1)",
+    "slug": "szczecin-1",
+    "voivodeship": "zachodniopomorskie",
+    "teryt": "3262011",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Szczecinek (1)",
+    "slug": "szczecinek-1",
+    "voivodeship": "zachodniopomorskie",
+    "teryt": "3215011",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Szczekociny - miasto (4)",
+    "slug": "szczekociny-miasto-4",
+    "voivodeship": "śląskie",
+    "teryt": "2416084",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Szczucin - miasto (4)",
+    "slug": "szczucin-miasto-4",
+    "voivodeship": "małopolskie",
+    "teryt": "1204074",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Szczuczyn - miasto (4)",
+    "slug": "szczuczyn-miasto-4",
+    "voivodeship": "podlaskie",
+    "teryt": "2004054",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Szczyrk (1)",
+    "slug": "szczyrk-1",
+    "voivodeship": "śląskie",
+    "teryt": "2402011",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Szczytna - miasto (4)",
+    "slug": "szczytna-miasto-4",
+    "voivodeship": "dolnośląskie",
+    "teryt": "0208144",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Szczytno (1)",
+    "slug": "szczytno-1",
+    "voivodeship": "warmińsko-mazurskie",
+    "teryt": "2817011",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Szepietowo - miasto (4)",
+    "slug": "szepietowo-miasto-4",
+    "voivodeship": "podlaskie",
+    "teryt": "2013094",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Szklarska Poręba (1)",
+    "slug": "szklarska-poreba-1",
+    "voivodeship": "dolnośląskie",
+    "teryt": "0206041",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Szlichtyngowa - miasto (4)",
+    "slug": "szlichtyngowa-miasto-4",
+    "voivodeship": "lubuskie",
+    "teryt": "0812024",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Szprotawa - miasto (4)",
+    "slug": "szprotawa-miasto-4",
+    "voivodeship": "lubuskie",
+    "teryt": "0810074",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Sztum - miasto (4)",
+    "slug": "sztum-miasto-4",
+    "voivodeship": "pomorskie",
+    "teryt": "2216054",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Szubin - miasto (4)",
+    "slug": "szubin-miasto-4",
+    "voivodeship": "kujawsko-pomorskie",
+    "teryt": "0410054",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Szydłowiec - miasto (4)",
+    "slug": "szydlowiec-miasto-4",
+    "voivodeship": "mazowieckie",
+    "teryt": "1430054",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Szydłów - miasto (4)",
+    "slug": "szydlow-miasto-4",
+    "voivodeship": "świętokrzyskie",
+    "teryt": "2612084",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Sędziszów - miasto (4)",
+    "slug": "sedziszow-miasto-4",
+    "voivodeship": "świętokrzyskie",
+    "teryt": "2602064",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Sędziszów Małopolski - miasto (4)",
+    "slug": "sedziszow-malopolski-miasto-4",
+    "voivodeship": "podkarpackie",
+    "teryt": "1815044",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Sępopol - miasto (4)",
+    "slug": "sepopol-miasto-4",
+    "voivodeship": "warmińsko-mazurskie",
+    "teryt": "2801064",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Sępólno Krajeńskie - miasto (4)",
+    "slug": "sepolno-krajenskie-miasto-4",
+    "voivodeship": "kujawsko-pomorskie",
+    "teryt": "0413024",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Sława - miasto (4)",
+    "slug": "slawa-miasto-4",
+    "voivodeship": "lubuskie",
+    "teryt": "0812014",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Sławków (1)",
+    "slug": "slawkow-1",
+    "voivodeship": "śląskie",
+    "teryt": "2401081",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Sławno (1)",
+    "slug": "slawno-1",
+    "voivodeship": "zachodniopomorskie",
+    "teryt": "3213021",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Słomniki - miasto (4)",
+    "slug": "slomniki-miasto-4",
+    "voivodeship": "małopolskie",
+    "teryt": "1206124",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Słubice - miasto (4)",
+    "slug": "slubice-miasto-4",
+    "voivodeship": "lubuskie",
+    "teryt": "0805054",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Słupca (1)",
+    "slug": "slupca-1",
+    "voivodeship": "wielkopolskie",
+    "teryt": "3023011",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Słupsk (1)",
+    "slug": "slupsk-1",
+    "voivodeship": "pomorskie",
+    "teryt": "2263011",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Tarczyn - miasto (4)",
+    "slug": "tarczyn-miasto-4",
+    "voivodeship": "mazowieckie",
+    "teryt": "1418064",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Tarnobrzeg (1)",
+    "slug": "tarnobrzeg-1",
+    "voivodeship": "podkarpackie",
+    "teryt": "1864011",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Tarnogród - miasto (4)",
+    "slug": "tarnogrod-miasto-4",
+    "voivodeship": "lubelskie",
+    "teryt": "0602124",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Tarnowskie Góry (1)",
+    "slug": "tarnowskie-gory-1",
+    "voivodeship": "śląskie",
+    "teryt": "2413041",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Tarnów (1)",
+    "slug": "tarnow-1",
+    "voivodeship": "małopolskie",
+    "teryt": "1263011",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Tczew (1)",
+    "slug": "tczew-1",
+    "voivodeship": "pomorskie",
+    "teryt": "2214011",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Terespol (1)",
+    "slug": "terespol-1",
+    "voivodeship": "lubelskie",
+    "teryt": "0601021",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Tolkmicko - miasto (4)",
+    "slug": "tolkmicko-miasto-4",
+    "voivodeship": "warmińsko-mazurskie",
+    "teryt": "2804094",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Tomaszów Lubelski (1)",
+    "slug": "tomaszow-lubelski-1",
+    "voivodeship": "lubelskie",
+    "teryt": "0618011",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Tomaszów Mazowiecki (1)",
+    "slug": "tomaszow-mazowiecki-1",
+    "voivodeship": "łódzkie",
+    "teryt": "1016011",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Toruń (1)",
+    "slug": "torun-1",
+    "voivodeship": "kujawsko-pomorskie",
+    "teryt": "0463011",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Torzym - miasto (4)",
+    "slug": "torzym-miasto-4",
+    "voivodeship": "lubuskie",
+    "teryt": "0807054",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Toszek - miasto (4)",
+    "slug": "toszek-miasto-4",
+    "voivodeship": "śląskie",
+    "teryt": "2405074",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Trzcianka - miasto (4)",
+    "slug": "trzcianka-miasto-4",
+    "voivodeship": "wielkopolskie",
+    "teryt": "3002074",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Trzciel - miasto (4)",
+    "slug": "trzciel-miasto-4",
+    "voivodeship": "lubuskie",
+    "teryt": "0803064",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Trzcińsko-Zdrój - miasto (4)",
+    "slug": "trzcinsko-zdroj-miasto-4",
+    "voivodeship": "zachodniopomorskie",
+    "teryt": "3206084",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Trzebiatów - miasto (4)",
+    "slug": "trzebiatow-miasto-4",
+    "voivodeship": "zachodniopomorskie",
+    "teryt": "3205084",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Trzebinia - miasto (4)",
+    "slug": "trzebinia-miasto-4",
+    "voivodeship": "małopolskie",
+    "teryt": "1203054",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Trzebnica - miasto (4)",
+    "slug": "trzebnica-miasto-4",
+    "voivodeship": "dolnośląskie",
+    "teryt": "0220034",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Trzemeszno - miasto (4)",
+    "slug": "trzemeszno-miasto-4",
+    "voivodeship": "wielkopolskie",
+    "teryt": "3003094",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Tuchola - miasto (4)",
+    "slug": "tuchola-miasto-4",
+    "voivodeship": "kujawsko-pomorskie",
+    "teryt": "0416064",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Tuchów - miasto (4)",
+    "slug": "tuchow-miasto-4",
+    "voivodeship": "małopolskie",
+    "teryt": "1216104",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Tuczno - miasto (4)",
+    "slug": "tuczno-miasto-4",
+    "voivodeship": "zachodniopomorskie",
+    "teryt": "3217044",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Tuliszków - miasto (4)",
+    "slug": "tuliszkow-miasto-4",
+    "voivodeship": "wielkopolskie",
+    "teryt": "3027074",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Turek (1)",
+    "slug": "turek-1",
+    "voivodeship": "wielkopolskie",
+    "teryt": "3027011",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Turobin - miasto (4)",
+    "slug": "turobin-miasto-4",
+    "voivodeship": "lubelskie",
+    "teryt": "0602144",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Tuszyn - miasto (4)",
+    "slug": "tuszyn-miasto-4",
+    "voivodeship": "łódzkie",
+    "teryt": "1006114",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Tułowice - miasto (4)",
+    "slug": "tulowice-miasto-4",
+    "voivodeship": "opolskie",
+    "teryt": "1609124",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Twardogóra - miasto (4)",
+    "slug": "twardogora-miasto-4",
+    "voivodeship": "dolnośląskie",
+    "teryt": "0214084",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Tychowo - miasto (4)",
+    "slug": "tychowo-miasto-4",
+    "voivodeship": "zachodniopomorskie",
+    "teryt": "3201044",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Tychy (1)",
+    "slug": "tychy-1",
+    "voivodeship": "śląskie",
+    "teryt": "2477011",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Tyczyn - miasto (4)",
+    "slug": "tyczyn-miasto-4",
+    "voivodeship": "podkarpackie",
+    "teryt": "1816144",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Tykocin - miasto (4)",
+    "slug": "tykocin-miasto-4",
+    "voivodeship": "podlaskie",
+    "teryt": "2002124",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Tyszowce - miasto (4)",
+    "slug": "tyszowce-miasto-4",
+    "voivodeship": "lubelskie",
+    "teryt": "0618124",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Tłuszcz - miasto (4)",
+    "slug": "tluszcz-miasto-4",
+    "voivodeship": "mazowieckie",
+    "teryt": "1434114",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Ujazd - miasto (4)",
+    "slug": "ujazd-miasto-4",
+    "voivodeship": "łódzkie",
+    "teryt": "1016104",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Ujazd - miasto (4)",
+    "slug": "ujazd-miasto-4-opolskie",
+    "voivodeship": "opolskie",
+    "teryt": "1611064",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Ujście - miasto (4)",
+    "slug": "ujscie-miasto-4",
+    "voivodeship": "wielkopolskie",
+    "teryt": "3019074",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Ulanów - miasto (4)",
+    "slug": "ulanow-miasto-4",
+    "voivodeship": "podkarpackie",
+    "teryt": "1812074",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Uniejów - miasto (4)",
+    "slug": "uniejow-miasto-4",
+    "voivodeship": "łódzkie",
+    "teryt": "1011044",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Urzędów - miasto (4)",
+    "slug": "urzedow-miasto-4",
+    "voivodeship": "lubelskie",
+    "teryt": "0607084",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Ustka (1)",
+    "slug": "ustka-1",
+    "voivodeship": "pomorskie",
+    "teryt": "2212011",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Ustroń (1)",
+    "slug": "ustron-1",
+    "voivodeship": "śląskie",
+    "teryt": "2403021",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Ustrzyki Dolne - miasto (4)",
+    "slug": "ustrzyki-dolne-miasto-4",
+    "voivodeship": "podkarpackie",
+    "teryt": "1801084",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Wadowice - miasto (4)",
+    "slug": "wadowice-miasto-4",
+    "voivodeship": "małopolskie",
+    "teryt": "1218094",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Warka - miasto (4)",
+    "slug": "warka-miasto-4",
+    "voivodeship": "mazowieckie",
+    "teryt": "1406114",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Warta - miasto (4)",
+    "slug": "warta-miasto-4",
+    "voivodeship": "łódzkie",
+    "teryt": "1014094",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Wasilków - miasto (4)",
+    "slug": "wasilkow-miasto-4",
+    "voivodeship": "podlaskie",
+    "teryt": "2002134",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Wałbrzych (1)",
+    "slug": "walbrzych-1",
+    "voivodeship": "dolnośląskie",
+    "teryt": "0265011",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Wałcz (1)",
+    "slug": "walcz-1",
+    "voivodeship": "zachodniopomorskie",
+    "teryt": "3217011",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Wejherowo (1)",
+    "slug": "wejherowo-1",
+    "voivodeship": "pomorskie",
+    "teryt": "2215031",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Wielbark - miasto (4)",
+    "slug": "wielbark-miasto-4",
+    "voivodeship": "warmińsko-mazurskie",
+    "teryt": "2817084",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Wieleń - miasto (4)",
+    "slug": "wielen-miasto-4",
+    "voivodeship": "wielkopolskie",
+    "teryt": "3002084",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Wielichowo - miasto (4)",
+    "slug": "wielichowo-miasto-4",
+    "voivodeship": "wielkopolskie",
+    "teryt": "3005054",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Wieliczka - miasto (4)",
+    "slug": "wieliczka-miasto-4",
+    "voivodeship": "małopolskie",
+    "teryt": "1219054",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Wieluń - miasto (4)",
+    "slug": "wielun-miasto-4",
+    "voivodeship": "łódzkie",
+    "teryt": "1017094",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Wieruszów - miasto (4)",
+    "slug": "wieruszow-miasto-4",
+    "voivodeship": "łódzkie",
+    "teryt": "1018074",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Wilamowice - miasto (4)",
+    "slug": "wilamowice-miasto-4",
+    "voivodeship": "śląskie",
+    "teryt": "2402094",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Wiskitki - miasto (4)",
+    "slug": "wiskitki-miasto-4",
+    "voivodeship": "mazowieckie",
+    "teryt": "1438054",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Wisła (1)",
+    "slug": "wisla-1",
+    "voivodeship": "śląskie",
+    "teryt": "2403031",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Witkowo - miasto (4)",
+    "slug": "witkowo-miasto-4",
+    "voivodeship": "wielkopolskie",
+    "teryt": "3003104",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Witnica - miasto (4)",
+    "slug": "witnica-miasto-4",
+    "voivodeship": "lubuskie",
+    "teryt": "0801074",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Wiązów - miasto (4)",
+    "slug": "wiazow-miasto-4",
+    "voivodeship": "dolnośląskie",
+    "teryt": "0217054",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Więcbork - miasto (4)",
+    "slug": "wiecbork-miasto-4",
+    "voivodeship": "kujawsko-pomorskie",
+    "teryt": "0413044",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Wiślica - miasto (4)",
+    "slug": "wislica-miasto-4",
+    "voivodeship": "świętokrzyskie",
+    "teryt": "2601084",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Wleń - miasto (4)",
+    "slug": "wlen-miasto-4",
+    "voivodeship": "dolnośląskie",
+    "teryt": "0212054",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Wodzisław - miasto (4)",
+    "slug": "wodzislaw-miasto-4",
+    "voivodeship": "świętokrzyskie",
+    "teryt": "2602094",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Wodzisław Śląski (1)",
+    "slug": "wodzislaw-slaski-1",
+    "voivodeship": "śląskie",
+    "teryt": "2415041",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Wojcieszów (1)",
+    "slug": "wojcieszow-1",
+    "voivodeship": "dolnośląskie",
+    "teryt": "0226011",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Wojkowice (1)",
+    "slug": "wojkowice-1",
+    "voivodeship": "śląskie",
+    "teryt": "2401031",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Wojnicz - miasto (4)",
+    "slug": "wojnicz-miasto-4",
+    "voivodeship": "małopolskie",
+    "teryt": "1216134",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Wolbrom - miasto (4)",
+    "slug": "wolbrom-miasto-4",
+    "voivodeship": "małopolskie",
+    "teryt": "1212074",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Wolbórz - miasto (4)",
+    "slug": "wolborz-miasto-4",
+    "voivodeship": "łódzkie",
+    "teryt": "1010114",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Wolin - miasto (4)",
+    "slug": "wolin-miasto-4",
+    "voivodeship": "zachodniopomorskie",
+    "teryt": "3207064",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Wolsztyn - miasto (4)",
+    "slug": "wolsztyn-miasto-4",
+    "voivodeship": "wielkopolskie",
+    "teryt": "3029034",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Wołczyn - miasto (4)",
+    "slug": "wolczyn-miasto-4",
+    "voivodeship": "opolskie",
+    "teryt": "1604044",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Wołomin - miasto (4)",
+    "slug": "wolomin-miasto-4",
+    "voivodeship": "mazowieckie",
+    "teryt": "1434124",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Wołów - miasto (4)",
+    "slug": "wolow-miasto-4",
+    "voivodeship": "dolnośląskie",
+    "teryt": "0222034",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Woźniki - miasto (4)",
+    "slug": "wozniki-miasto-4",
+    "voivodeship": "śląskie",
+    "teryt": "2407084",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Wrocław (1)",
+    "slug": "wroclaw-1",
+    "voivodeship": "dolnośląskie",
+    "teryt": "0264011",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Wronki - miasto (4)",
+    "slug": "wronki-miasto-4",
+    "voivodeship": "wielkopolskie",
+    "teryt": "3024084",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Września - miasto (4)",
+    "slug": "wrzesnia-miasto-4",
+    "voivodeship": "wielkopolskie",
+    "teryt": "3030054",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Wschowa - miasto (4)",
+    "slug": "wschowa-miasto-4",
+    "voivodeship": "lubuskie",
+    "teryt": "0812034",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Wyrzysk - miasto (4)",
+    "slug": "wyrzysk-miasto-4",
+    "voivodeship": "wielkopolskie",
+    "teryt": "3019084",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Wysoka - miasto (4)",
+    "slug": "wysoka-miasto-4",
+    "voivodeship": "wielkopolskie",
+    "teryt": "3019094",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Wysokie Mazowieckie (1)",
+    "slug": "wysokie-mazowieckie-1",
+    "voivodeship": "podlaskie",
+    "teryt": "2013011",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Wyszków - miasto (4)",
+    "slug": "wyszkow-miasto-4",
+    "voivodeship": "mazowieckie",
+    "teryt": "1435054",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Wyszogród - miasto (4)",
+    "slug": "wyszogrod-miasto-4",
+    "voivodeship": "mazowieckie",
+    "teryt": "1419154",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Wyśmierzyce - miasto (4)",
+    "slug": "wysmierzyce-miasto-4",
+    "voivodeship": "mazowieckie",
+    "teryt": "1401064",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Wąbrzeźno (1)",
+    "slug": "wabrzezno-1",
+    "voivodeship": "kujawsko-pomorskie",
+    "teryt": "0417011",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Wąchock - miasto (4)",
+    "slug": "wachock-miasto-4",
+    "voivodeship": "świętokrzyskie",
+    "teryt": "2611054",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Wągrowiec (1)",
+    "slug": "wagrowiec-1",
+    "voivodeship": "wielkopolskie",
+    "teryt": "3028011",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Wąsosz - miasto (4)",
+    "slug": "wasosz-miasto-4",
+    "voivodeship": "dolnośląskie",
+    "teryt": "0204044",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Wąwolnica - miasto (4)",
+    "slug": "wawolnica-miasto-4",
+    "voivodeship": "lubelskie",
+    "teryt": "0614104",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Węgliniec - miasto (4)",
+    "slug": "wegliniec-miasto-4",
+    "voivodeship": "dolnośląskie",
+    "teryt": "0225064",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Węgorzewo - miasto (4)",
+    "slug": "wegorzewo-miasto-4",
+    "voivodeship": "warmińsko-mazurskie",
+    "teryt": "2819034",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Węgorzyno - miasto (4)",
+    "slug": "wegorzyno-miasto-4",
+    "voivodeship": "zachodniopomorskie",
+    "teryt": "3218054",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Węgrów (1)",
+    "slug": "wegrow-1",
+    "voivodeship": "mazowieckie",
+    "teryt": "1433011",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Władysławowo - miasto (4)",
+    "slug": "wladyslawowo-miasto-4",
+    "voivodeship": "pomorskie",
+    "teryt": "2211044",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Włocławek (1)",
+    "slug": "wloclawek-1",
+    "voivodeship": "kujawsko-pomorskie",
+    "teryt": "0464011",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Włodawa (1)",
+    "slug": "wlodawa-1",
+    "voivodeship": "lubelskie",
+    "teryt": "0619011",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Włodowice - miasto (4)",
+    "slug": "wlodowice-miasto-4",
+    "voivodeship": "śląskie",
+    "teryt": "2416094",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Włoszczowa - miasto (4)",
+    "slug": "wloszczowa-miasto-4",
+    "voivodeship": "świętokrzyskie",
+    "teryt": "2613064",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Zabrze (1)",
+    "slug": "zabrze-1",
+    "voivodeship": "śląskie",
+    "teryt": "2478011",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Zabłudów - miasto (4)",
+    "slug": "zabludow-miasto-4",
+    "voivodeship": "podlaskie",
+    "teryt": "2002144",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Zagórz - miasto (4)",
+    "slug": "zagorz-miasto-4",
+    "voivodeship": "podkarpackie",
+    "teryt": "1817074",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Zagórów - miasto (4)",
+    "slug": "zagorow-miasto-4",
+    "voivodeship": "wielkopolskie",
+    "teryt": "3023084",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Zakliczyn - miasto (4)",
+    "slug": "zakliczyn-miasto-4",
+    "voivodeship": "małopolskie",
+    "teryt": "1216144",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Zaklików - miasto (4)",
+    "slug": "zaklikow-miasto-4",
+    "voivodeship": "podkarpackie",
+    "teryt": "1818054",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Zakopane (1)",
+    "slug": "zakopane-1",
+    "voivodeship": "małopolskie",
+    "teryt": "1217011",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Zakroczym - miasto (4)",
+    "slug": "zakroczym-miasto-4",
+    "voivodeship": "mazowieckie",
+    "teryt": "1414064",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Zalewo - miasto (4)",
+    "slug": "zalewo-miasto-4",
+    "voivodeship": "warmińsko-mazurskie",
+    "teryt": "2807074",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Zambrów (1)",
+    "slug": "zambrow-1",
+    "voivodeship": "podlaskie",
+    "teryt": "2014011",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Zamość (1)",
+    "slug": "zamosc-1",
+    "voivodeship": "lubelskie",
+    "teryt": "0664011",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Zaniemyśl - miasto (4)",
+    "slug": "zaniemysl-miasto-4",
+    "voivodeship": "wielkopolskie",
+    "teryt": "3025054",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Zator - miasto (4)",
+    "slug": "zator-miasto-4",
+    "voivodeship": "małopolskie",
+    "teryt": "1213094",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Zawadzkie - miasto (4)",
+    "slug": "zawadzkie-miasto-4",
+    "voivodeship": "opolskie",
+    "teryt": "1611074",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Zawichost - miasto (4)",
+    "slug": "zawichost-miasto-4",
+    "voivodeship": "świętokrzyskie",
+    "teryt": "2609094",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Zawidów (1)",
+    "slug": "zawidow-1",
+    "voivodeship": "dolnośląskie",
+    "teryt": "0225011",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Zawiercie (1)",
+    "slug": "zawiercie-1",
+    "voivodeship": "śląskie",
+    "teryt": "2416021",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Zbąszynek - miasto (4)",
+    "slug": "zbaszynek-miasto-4",
+    "voivodeship": "lubuskie",
+    "teryt": "0808064",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Zbąszyń - miasto (4)",
+    "slug": "zbaszyn-miasto-4",
+    "voivodeship": "wielkopolskie",
+    "teryt": "3015064",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Zduny - miasto (4)",
+    "slug": "zduny-miasto-4",
+    "voivodeship": "wielkopolskie",
+    "teryt": "3012064",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Zduńska Wola (1)",
+    "slug": "zdunska-wola-1",
+    "voivodeship": "łódzkie",
+    "teryt": "1019011",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Zdzieszowice - miasto (4)",
+    "slug": "zdzieszowice-miasto-4",
+    "voivodeship": "opolskie",
+    "teryt": "1605054",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Zelów - miasto (4)",
+    "slug": "zelow-miasto-4",
+    "voivodeship": "łódzkie",
+    "teryt": "1001084",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Zgierz (1)",
+    "slug": "zgierz-1",
+    "voivodeship": "łódzkie",
+    "teryt": "1020031",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Zgorzelec (1)",
+    "slug": "zgorzelec-1",
+    "voivodeship": "dolnośląskie",
+    "teryt": "0225021",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Zielona Góra (1)",
+    "slug": "zielona-gora-1",
+    "voivodeship": "lubuskie",
+    "teryt": "0862011",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Zielonka (1)",
+    "slug": "zielonka-1",
+    "voivodeship": "mazowieckie",
+    "teryt": "1434041",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Ziębice - miasto (4)",
+    "slug": "ziebice-miasto-4",
+    "voivodeship": "dolnośląskie",
+    "teryt": "0224064",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Zwierzyniec - miasto (4)",
+    "slug": "zwierzyniec-miasto-4",
+    "voivodeship": "lubelskie",
+    "teryt": "0620154",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Zwoleń - miasto (4)",
+    "slug": "zwolen-miasto-4",
+    "voivodeship": "mazowieckie",
+    "teryt": "1436054",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Ząbki (1)",
+    "slug": "zabki-1",
+    "voivodeship": "mazowieckie",
+    "teryt": "1434031",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Ząbkowice Śląskie - miasto (4)",
+    "slug": "zabkowice-slaskie-miasto-4",
+    "voivodeship": "dolnośląskie",
+    "teryt": "0224054",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Złocieniec - miasto (4)",
+    "slug": "zlocieniec-miasto-4",
+    "voivodeship": "zachodniopomorskie",
+    "teryt": "3203064",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Złoczew - miasto (4)",
+    "slug": "zloczew-miasto-4",
+    "voivodeship": "łódzkie",
+    "teryt": "1014114",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Złotoryja (1)",
+    "slug": "zlotoryja-1",
+    "voivodeship": "dolnośląskie",
+    "teryt": "0226021",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Złoty Stok - miasto (4)",
+    "slug": "zloty-stok-miasto-4",
+    "voivodeship": "dolnośląskie",
+    "teryt": "0224074",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Złotów (1)",
+    "slug": "zlotow-1",
+    "voivodeship": "wielkopolskie",
+    "teryt": "3031011",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Ćmielów - miasto (4)",
+    "slug": "cmielow-miasto-4",
+    "voivodeship": "świętokrzyskie",
+    "teryt": "2607044",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Łabiszyn - miasto (4)",
+    "slug": "labiszyn-miasto-4",
+    "voivodeship": "kujawsko-pomorskie",
+    "teryt": "0419044",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Łagów - miasto (4)",
+    "slug": "lagow-miasto-4",
+    "voivodeship": "świętokrzyskie",
+    "teryt": "2604074",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Łapy - miasto (4)",
+    "slug": "lapy-miasto-4",
+    "voivodeship": "podlaskie",
+    "teryt": "2002064",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Łasin - miasto (4)",
+    "slug": "lasin-miasto-4",
+    "voivodeship": "kujawsko-pomorskie",
+    "teryt": "0406034",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Łask - miasto (4)",
+    "slug": "lask-miasto-4",
+    "voivodeship": "łódzkie",
+    "teryt": "1003024",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Łaskarzew (1)",
+    "slug": "laskarzew-1",
+    "voivodeship": "mazowieckie",
+    "teryt": "1403021",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Łaszczów - miasto (4)",
+    "slug": "laszczow-miasto-4",
+    "voivodeship": "lubelskie",
+    "teryt": "0618064",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Łaziska Górne (1)",
+    "slug": "laziska-gorne-1",
+    "voivodeship": "śląskie",
+    "teryt": "2408011",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Łazy - miasto (4)",
+    "slug": "lazy-miasto-4",
+    "voivodeship": "śląskie",
+    "teryt": "2416054",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Łańcut (1)",
+    "slug": "lancut-1",
+    "voivodeship": "podkarpackie",
+    "teryt": "1810011",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Łeba (1)",
+    "slug": "leba-1",
+    "voivodeship": "pomorskie",
+    "teryt": "2208021",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Łobez - miasto (4)",
+    "slug": "lobez-miasto-4",
+    "voivodeship": "zachodniopomorskie",
+    "teryt": "3218024",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Łobżenica - miasto (4)",
+    "slug": "lobzenica-miasto-4",
+    "voivodeship": "wielkopolskie",
+    "teryt": "3019044",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Łochów - miasto (4)",
+    "slug": "lochow-miasto-4",
+    "voivodeship": "mazowieckie",
+    "teryt": "1433054",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Łomianki - miasto (4)",
+    "slug": "lomianki-miasto-4",
+    "voivodeship": "mazowieckie",
+    "teryt": "1432054",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Łomża (1)",
+    "slug": "lomza-1",
+    "voivodeship": "podlaskie",
+    "teryt": "2062011",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Łopuszno - miasto (4)",
+    "slug": "lopuszno-miasto-4",
+    "voivodeship": "świętokrzyskie",
+    "teryt": "2604084",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Łosice - miasto (4)",
+    "slug": "losice-miasto-4",
+    "voivodeship": "mazowieckie",
+    "teryt": "1410024",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Łowicz (1)",
+    "slug": "lowicz-1",
+    "voivodeship": "łódzkie",
+    "teryt": "1005011",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Łuków (1)",
+    "slug": "lukow-1",
+    "voivodeship": "lubelskie",
+    "teryt": "0611011",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Łódź (1)",
+    "slug": "lodz-1",
+    "voivodeship": "łódzkie",
+    "teryt": "1061011",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Łęczna - miasto (4)",
+    "slug": "leczna-miasto-4",
+    "voivodeship": "lubelskie",
+    "teryt": "0610034",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Łęczyca (1)",
+    "slug": "leczyca-1",
+    "voivodeship": "łódzkie",
+    "teryt": "1004011",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Łęknica (1)",
+    "slug": "leknica-1",
+    "voivodeship": "lubuskie",
+    "teryt": "0811011",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Ścinawa - miasto (4)",
+    "slug": "scinawa-miasto-4",
+    "voivodeship": "dolnośląskie",
+    "teryt": "0211044",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Ślesin - miasto (4)",
+    "slug": "slesin-miasto-4",
+    "voivodeship": "wielkopolskie",
+    "teryt": "3010124",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Śmigiel - miasto (4)",
+    "slug": "smigiel-miasto-4",
+    "voivodeship": "wielkopolskie",
+    "teryt": "3011054",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Śrem - miasto (4)",
+    "slug": "srem-miasto-4",
+    "voivodeship": "wielkopolskie",
+    "teryt": "3026044",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Środa Wielkopolska - miasto (4)",
+    "slug": "sroda-wielkopolska-miasto-4",
+    "voivodeship": "wielkopolskie",
+    "teryt": "3025044",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Środa Śląska - miasto (4)",
+    "slug": "sroda-slaska-miasto-4",
+    "voivodeship": "dolnośląskie",
+    "teryt": "0218044",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Świdnica (1)",
+    "slug": "swidnica-1",
+    "voivodeship": "dolnośląskie",
+    "teryt": "0219011",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Świdnik (1)",
+    "slug": "swidnik-1",
+    "voivodeship": "lubelskie",
+    "teryt": "0617011",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Świdwin (1)",
+    "slug": "swidwin-1",
+    "voivodeship": "zachodniopomorskie",
+    "teryt": "3216011",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Świebodzice (1)",
+    "slug": "swiebodzice-1",
+    "voivodeship": "dolnośląskie",
+    "teryt": "0219021",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Świebodzin - miasto (4)",
+    "slug": "swiebodzin-miasto-4",
+    "voivodeship": "lubuskie",
+    "teryt": "0808054",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Świecie - miasto (4)",
+    "slug": "swiecie-miasto-4",
+    "voivodeship": "kujawsko-pomorskie",
+    "teryt": "0414094",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Świeradów-Zdrój (1)",
+    "slug": "swieradow-zdroj-1",
+    "voivodeship": "dolnośląskie",
+    "teryt": "0210021",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Świerzawa - miasto (4)",
+    "slug": "swierzawa-miasto-4",
+    "voivodeship": "dolnośląskie",
+    "teryt": "0226044",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Świnoujście (1)",
+    "slug": "swinoujscie-1",
+    "voivodeship": "zachodniopomorskie",
+    "teryt": "3263011",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Świątniki Górne - miasto (4)",
+    "slug": "swiatniki-gorne-miasto-4",
+    "voivodeship": "małopolskie",
+    "teryt": "1206144",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Świętochłowice (1)",
+    "slug": "swietochlowice-1",
+    "voivodeship": "śląskie",
+    "teryt": "2476011",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Żabno - miasto (4)",
+    "slug": "zabno-miasto-4",
+    "voivodeship": "małopolskie",
+    "teryt": "1216154",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Żagań (1)",
+    "slug": "zagan-1",
+    "voivodeship": "lubuskie",
+    "teryt": "0810021",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Żarki - miasto (4)",
+    "slug": "zarki-miasto-4",
+    "voivodeship": "śląskie",
+    "teryt": "2409054",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Żarnów - miasto (4)",
+    "slug": "zarnow-miasto-4",
+    "voivodeship": "łódzkie",
+    "teryt": "1007084",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Żary (1)",
+    "slug": "zary-1",
+    "voivodeship": "lubuskie",
+    "teryt": "0811021",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Żarów - miasto (4)",
+    "slug": "zarow-miasto-4",
+    "voivodeship": "dolnośląskie",
+    "teryt": "0219084",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Żelechów - miasto (4)",
+    "slug": "zelechow-miasto-4",
+    "voivodeship": "mazowieckie",
+    "teryt": "1403144",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Żerków - miasto (4)",
+    "slug": "zerkow-miasto-4",
+    "voivodeship": "wielkopolskie",
+    "teryt": "3006044",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Żmigród - miasto (4)",
+    "slug": "zmigrod-miasto-4",
+    "voivodeship": "dolnośląskie",
+    "teryt": "0220064",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Żnin - miasto (4)",
+    "slug": "znin-miasto-4",
+    "voivodeship": "kujawsko-pomorskie",
+    "teryt": "0419064",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Żory (1)",
+    "slug": "zory-1",
+    "voivodeship": "śląskie",
+    "teryt": "2479011",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Żukowo - miasto (4)",
+    "slug": "zukowo-miasto-4",
+    "voivodeship": "pomorskie",
+    "teryt": "2205084",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Żuromin - miasto (4)",
+    "slug": "zuromin-miasto-4",
+    "voivodeship": "mazowieckie",
+    "teryt": "1437064",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Żychlin - miasto (4)",
+    "slug": "zychlin-miasto-4",
+    "voivodeship": "łódzkie",
+    "teryt": "1002114",
+    "kind": "miasto w gminie miejsko-wiejskiej"
+  },
+  {
+    "name": "Żyrardów (1)",
+    "slug": "zyrardow-1",
+    "voivodeship": "mazowieckie",
+    "teryt": "1438011",
+    "kind": "gmina miejska"
+  },
+  {
+    "name": "Żywiec (1)",
+    "slug": "zywiec-1",
+    "voivodeship": "śląskie",
+    "teryt": "2417011",
+    "kind": "gmina miejska"
+  }
+]
