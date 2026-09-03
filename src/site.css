@@ -316,9 +316,9 @@ details[open] summary::after { transform: rotate(45deg); }
   .brand-text { display: none; }
   .hero { padding-top: 52px; }
   .hero::before { width: 80vw; height: 80vw; }
-  .hero-panel { min-height: 440px; }
+  .hero-panel { min-height: 0; padding: 22px 0 30px 20px; }
   .hero-panel__back { inset: 0 20px 30px 0; }
-  .hero-panel__card { inset: 22px 0 0 20px; padding: 24px; }
+  .hero-panel__card { position: relative; inset: auto; min-height: 0; padding: 24px; }
   .stage-strip ol { grid-template-columns: repeat(2, 1fr); }
   .stage-strip li:nth-child(2) { border-right: 0; }
   .stage-strip li:nth-child(-n+2) { border-bottom: 1px solid var(--line-dark); }
