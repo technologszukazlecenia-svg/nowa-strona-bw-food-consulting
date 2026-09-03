@@ -1,0 +1,136 @@
+name: Build and validate 1026 city pages
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - 'data/cities.json'
+      - 'src/**'
+      - 'scripts/build-site.mjs'
+      - 'scripts/validate-site.mjs'
+      - 'scripts/serve.mjs'
+      - 'package.json'
+      - 'vercel.json'
+      - '.github/workflows/build-site.yml'
+  workflow_dispatch:
+
+concurrency:
+  group: build-city-pages-${{ github.ref }}
+  cancel-in-progress: true
+
+permissions:
+  contents: read
+
+jobs:
+  quality:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+
+      - name: Build preview and run full validation
+        env:
+          PUBLISH_MODE: preview
+          SITE_URL: https://lp.technologzywnosci.pl
+        run: npm test
+
+      - name: Preserve preview build
+        run: mv dist dist-preview
+
+      - name: Validate production indexing switch
+        env:
+          PUBLISH_MODE: production
+          SITE_URL: https://lp.technologzywnosci.pl
+        run: |
+          npm test
+          grep -q 'Allow: /' dist/robots.txt
+          grep -q 'Sitemap: https://lp.technologzywnosci.pl/sitemap.xml' dist/robots.txt
+          grep -q 'content="index,follow,max-image-preview:large"' dist/technolog-zywnosci-warszawa.html
+
+      - name: Restore safe preview build
+        run: |
+          rm -rf dist
+          mv dist-preview dist
+
+      - name: Install browser for visual smoke test
+        run: |
+          npm install --no-save playwright@1.55.0
+          npx playwright install --with-deps chromium
+
+      - name: Visual and interaction smoke test
+        run: |
+          node scripts/serve.mjs > /tmp/city-site.log 2>&1 &
+          SERVER_PID=$!
+          trap 'kill $SERVER_PID 2>/dev/null || true' EXIT
+          for attempt in {1..30}; do
+            if curl --silent --fail http://127.0.0.1:4173/ >/dev/null; then break; fi
+            sleep 1
+          done
+          mkdir -p qa-screenshots
+          cat > qa-smoke.mjs <<'JS'
+          import { chromium } from 'playwright';
+          import { writeFile } from 'node:fs/promises';
+
+          const browser = await chromium.launch({ headless: true });
+          const consoleErrors = [];
+
+          async function audit(name, url, viewport) {
+            const page = await browser.newPage({ viewport, deviceScaleFactor: 1 });
+            page.on('console', message => {
+              if (message.type() === 'error') consoleErrors.push(`${name}: ${message.text()}`);
+            });
+            page.on('pageerror', error => consoleErrors.push(`${name}: ${error.message}`));
+            const response = await page.goto(url, { waitUntil: 'networkidle', timeout: 60000 });
+            if (!response?.ok()) throw new Error(`${name}: HTTP ${response?.status()}`);
+            await page.screenshot({ path: `qa-screenshots/${name}.png`, fullPage: true });
+            const result = {
+              title: await page.title(),
+              h1: await page.locator('h1').first().innerText(),
+              h1Count: await page.locator('h1').count(),
+              bodyWidth: await page.evaluate(() => document.body.scrollWidth),
+              viewportWidth: await page.evaluate(() => document.documentElement.clientWidth),
+              formCount: await page.locator('[data-contact-form]').count(),
+            };
+            if (result.h1Count !== 1) throw new Error(`${name}: expected one H1`);
+            if (result.bodyWidth > result.viewportWidth + 1) throw new Error(`${name}: horizontal overflow ${result.bodyWidth}/${result.viewportWidth}`);
+            await page.close();
+            return result;
+          }
+
+          const results = [];
+          results.push(await audit('hub-desktop', 'http://127.0.0.1:4173/', { width: 1440, height: 1000 }));
+          results.push(await audit('warszawa-desktop', 'http://127.0.0.1:4173/technolog-zywnosci-warszawa', { width: 1440, height: 1000 }));
+          results.push(await audit('warszawa-mobile', 'http://127.0.0.1:4173/technolog-zywnosci-warszawa', { width: 390, height: 844 }));
+
+          const hub = await browser.newPage({ viewport: { width: 1280, height: 900 } });
+          await hub.goto('http://127.0.0.1:4173/', { waitUntil: 'networkidle' });
+          if (await hub.locator('[data-city-card]').count() !== 1026) throw new Error('Hub does not contain exactly 1026 city links');
+          await hub.locator('[data-city-search]').fill('Warszawa');
+          if (await hub.locator('[data-city-card]:visible').count() !== 1) throw new Error('City search did not narrow results to one Warsaw entry');
+          await hub.close();
+
+          if (consoleErrors.length) throw new Error(`Browser errors:\n${consoleErrors.join('\n')}`);
+          await writeFile('qa-screenshots/smoke-results.json', JSON.stringify(results, null, 2));
+          await browser.close();
+          JS
+          node qa-smoke.mjs
+
+      - name: Publish validated preview artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: bw-food-consulting-1026-miast-preview
+          path: dist
+          retention-days: 14
+          if-no-files-found: error
+
+      - name: Publish visual QA artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: bw-food-consulting-1026-miast-screenshots
+          path: qa-screenshots
+          retention-days: 14
+          if-no-files-found: error
